@@ -4,7 +4,24 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 
 ## Section: English
 
-#### Q1. Which of the following statements is definitely false according to the passage?
+#### Q1. Read the passage carefully to answer the questions that follow.
+
+The Union government has finalized a Rs 6,000-crore scheme to tackle the
+country’s depleting groundwater level. The Atal Bhujal Yojana, which is now awaiting the Union
+Cabinet’s clearance, will be launched in Gujarat, Maharashtra, Haryana, Karnataka, Rajasthan, Uttar
+Pradesh and Madhya Pradesh, covering 78 districts, 193 blocks and more than 8,300 gram
+panchayats. Half of the Rs 6,000 crore will come from the government’s budgetary support and the
+World Bank will give another Rs 3,000 crore.
+This scheme comes at a very critical time for the country. According to a World Bank report, about
+245 billion cubic metre of groundwater is abstracted each year in the country. This figure represents
+about 25% of the total global groundwater abstraction. In the past four to five decades, 80% of the
+rural and urban domestic water supplies in the country have been dependent on groundwater, the
+report added. Nearly two-thirds of India has underlying hard rock formations, which allow water to
+recharge only very slowly. The excessive extraction of groundwater, the debilitating impact of climate
+change on monsoons, which recharges aquifers, and lax implementation of water harvesting laws will
+impact not just the population’s drinking water needs, but also agriculture and industrial growth. 
+
+Which of the following statements is definitely false according to the passage?
 - (A) The Union government has finalized a Rs 6,000-crore scheme to tackle the country's depleting groundwater level.
 - (B) About 245 billion cubic metre of groundwater is abstracted each year in the country.
 - (C) The Atal Bhujal Yojana, which is now awaiting the Union Cabinet's clearance, will be launched in Gujarat, Maharashtra, Haryana, Karnataka, Rajasthan, Uttar Pradesh and Madhya Pradesh, covering 78 districts, 193 blocks and more than 8,300 gram panchayats.
@@ -12,7 +29,24 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** D
 **Explanation:** The passage clearly states that 80% of the rural and urban domestic water supplies have been dependent on groundwater. Option D contradicts this.
 
-#### Q2. Which of the following words is nearest in meaning to the word ‘abstracted’ as mentioned in the passage?
+#### Q2. Read the passage carefully to answer the questions that follow.
+
+The Union government has finalized a Rs 6,000-crore scheme to tackle the
+country’s depleting groundwater level. The Atal Bhujal Yojana, which is now awaiting the Union
+Cabinet’s clearance, will be launched in Gujarat, Maharashtra, Haryana, Karnataka, Rajasthan, Uttar
+Pradesh and Madhya Pradesh, covering 78 districts, 193 blocks and more than 8,300 gram
+panchayats. Half of the Rs 6,000 crore will come from the government’s budgetary support and the
+World Bank will give another Rs 3,000 crore.
+This scheme comes at a very critical time for the country. According to a World Bank report, about
+245 billion cubic metre of groundwater is abstracted each year in the country. This figure represents
+about 25% of the total global groundwater abstraction. In the past four to five decades, 80% of the
+rural and urban domestic water supplies in the country have been dependent on groundwater, the
+report added. Nearly two-thirds of India has underlying hard rock formations, which allow water to
+recharge only very slowly. The excessive extraction of groundwater, the debilitating impact of climate
+change on monsoons, which recharges aquifers, and lax implementation of water harvesting laws will
+impact not just the population’s drinking water needs, but also agriculture and industrial growth.
+
+Which of the following words is nearest in meaning to the word ‘abstracted’ as mentioned in the passage?
 - (A) Observed
 - (B) Conscious
 - (C) Withdrawn
@@ -20,7 +54,24 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** C
 **Explanation:** Abstracted means to draw, remove or take away something (withdrawn).
 
-#### Q3. Which of the following words is the most opposite in meaning to the word ‘depleting’ as used in the passage?
+#### Q3. Read the passage carefully to answer the questions that follow.
+
+The Union government has finalized a Rs 6,000-crore scheme to tackle the
+country’s depleting groundwater level. The Atal Bhujal Yojana, which is now awaiting the Union
+Cabinet’s clearance, will be launched in Gujarat, Maharashtra, Haryana, Karnataka, Rajasthan, Uttar
+Pradesh and Madhya Pradesh, covering 78 districts, 193 blocks and more than 8,300 gram
+panchayats. Half of the Rs 6,000 crore will come from the government’s budgetary support and the
+World Bank will give another Rs 3,000 crore.
+This scheme comes at a very critical time for the country. According to a World Bank report, about
+245 billion cubic metre of groundwater is abstracted each year in the country. This figure represents
+about 25% of the total global groundwater abstraction. In the past four to five decades, 80% of the
+rural and urban domestic water supplies in the country have been dependent on groundwater, the
+report added. Nearly two-thirds of India has underlying hard rock formations, which allow water to
+recharge only very slowly. The excessive extraction of groundwater, the debilitating impact of climate
+change on monsoons, which recharges aquifers, and lax implementation of water harvesting laws will
+impact not just the population’s drinking water needs, but also agriculture and industrial growth.
+
+Which of the following words is the most opposite in meaning to the word ‘depleting’ as used in the passage?
 - (A) Extract
 - (B) Change
 - (C) Burn
@@ -28,7 +79,24 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** D
 **Explanation:** Deplete means to decrease seriously or exhaust the supply; opposite is increase.
 
-#### Q4. What do you understand by the phrase ‘debilitating impact’ as per its usage in the passage?
+#### Q4. Read the passage carefully to answer the questions that follow.
+
+The Union government has finalized a Rs 6,000-crore scheme to tackle the
+country’s depleting groundwater level. The Atal Bhujal Yojana, which is now awaiting the Union
+Cabinet’s clearance, will be launched in Gujarat, Maharashtra, Haryana, Karnataka, Rajasthan, Uttar
+Pradesh and Madhya Pradesh, covering 78 districts, 193 blocks and more than 8,300 gram
+panchayats. Half of the Rs 6,000 crore will come from the government’s budgetary support and the
+World Bank will give another Rs 3,000 crore.
+This scheme comes at a very critical time for the country. According to a World Bank report, about
+245 billion cubic metre of groundwater is abstracted each year in the country. This figure represents
+about 25% of the total global groundwater abstraction. In the past four to five decades, 80% of the
+rural and urban domestic water supplies in the country have been dependent on groundwater, the
+report added. Nearly two-thirds of India has underlying hard rock formations, which allow water to
+recharge only very slowly. The excessive extraction of groundwater, the debilitating impact of climate
+change on monsoons, which recharges aquifers, and lax implementation of water harvesting laws will
+impact not just the population’s drinking water needs, but also agriculture and industrial growth.
+
+What do you understand by the phrase ‘debilitating impact’ as per its usage in the passage?
 - (A) Strengthening effect
 - (B) Weakening effect
 - (C) Extreme effect
@@ -36,15 +104,30 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** B
 **Explanation:** Debilitating means making something weak; impact means effect.
 
-#### Q5. Why does the writer mention that the ‘Atal Bhujal Yojana’ comes at a very critical time?
+#### Q5. Read the passage carefully to answer the questions that follow.
+
+The Union government has finalized a Rs 6,000-crore scheme to tackle the
+country’s depleting groundwater level. The Atal Bhujal Yojana, which is now awaiting the Union
+Cabinet’s clearance, will be launched in Gujarat, Maharashtra, Haryana, Karnataka, Rajasthan, Uttar
+Pradesh and Madhya Pradesh, covering 78 districts, 193 blocks and more than 8,300 gram
+panchayats. Half of the Rs 6,000 crore will come from the government’s budgetary support and the
+World Bank will give another Rs 3,000 crore.
+This scheme comes at a very critical time for the country. According to a World Bank report, about
+245 billion cubic metre of groundwater is abstracted each year in the country. This figure represents
+about 25% of the total global groundwater abstraction. In the past four to five decades, 80% of the
+rural and urban domestic water supplies in the country have been dependent on groundwater, the
+report added. Nearly two-thirds of India has underlying hard rock formations, which allow water to
+recharge only very slowly. The excessive extraction of groundwater, the debilitating impact of climate
+change on monsoons, which recharges aquifers, and lax implementation of water harvesting laws will
+impact not just the population’s drinking water needs, but also agriculture and industrial growth.
+
+Why does the writer mention that the ‘Atal Bhujal Yojana’ comes at a very critical time?
 - (A) The Union government has finalised a Rs 6,000-crore scheme to tackle the country's depleting groundwater level.
 - (B) Half of the Rs 6,000 crore will come from the government's budgetary support and the World Bank will give another Rs 3,000 crore.
 - (C) Government does not have enough funds to tackle the problem.
 - (D) According to a World Bank report, about 245 billion cubic metre of groundwater is abstracted each year in the country. This figure represents about 25% of the total global groundwater abstraction. In the past four to five decades, 80% of the rural and urban domestic water supplies in the country have been dependent on groundwater.
 **Answer:** D
 **Explanation:** The passage highlights the scale of groundwater extraction and dependence to show the critical need for the scheme.
-
-## Section: General Awareness
 
 #### Q6. I have been really busy last month. I want to ______ some good time with my friends and family.
 - (A) Allocate
