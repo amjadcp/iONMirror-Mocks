@@ -338,28 +338,28 @@ III. Some gardens are petals.
 
 #### Q41. Lion, Fox and Carnivorous
 ![Figure Q41](images/afcat2/q41.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** B
 **Explanation:** Both Lion and Fox are carnivorous animals (separate circles inside a larger circle).
 
 #### Q42. Manager, Labour Union and Workers
 ![Figure Q42](images/afcat2/q42.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** A
 **Explanation:** Managers and Workers are separate; Labour Union may contain some workers.
 
 #### Q43. Food, Curd, Spoons
 ![Figure Q43](images/afcat2/q43.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** D
 **Explanation:** Curd is a type of food; Spoons are unrelated.
 
@@ -392,28 +392,28 @@ III. Some gardens are petals.
 
 #### Q47. Find the similar relation
 ![Figure Q47](images/afcat2/q47.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** B
 **Explanation:** The pattern of shaded sectors and rotation matches option (b).
 
 #### Q48. Choose the alternative which will complete the missing part.
 ![Figure Q48](images/afcat2/q48.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** C
 **Explanation:** Completes the circular pattern with numbers/sectors.
 
 #### Q49. Choose the alternative which will complete the missing part.
 ![Figure Q49](images/afcat2/q49.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** B
 **Explanation:** Completes the triangle shading and lines.
 
@@ -428,28 +428,28 @@ III. Some gardens are petals.
 
 #### Q51. Find the missing series
 ![Figure Q51](images/afcat2/q51.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** B
 **Explanation:** The cross rotates and the circle shading changes systematically.
 
 #### Q52. From the given answer figures, select the one in which the question figure is hidden/embedded.
 ![Figure Q52](images/afcat2/q52.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** A
 **Explanation:** The question figure is embedded in option (a).
 
 #### Q53. Trace out the alternative figure which contains fig. (X) as its part.
 ![Figure Q53](images/afcat2/q53.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** B
 **Explanation:** Option (b) contains the given figure as a part.
 
@@ -463,10 +463,10 @@ III. Some gardens are petals.
 
 #### Q55. Find out the mirror image
 ![Figure Q55](images/afcat2/q55.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** D
 **Explanation:** Mirror image of the given figure is option (d).
 
@@ -771,10 +771,10 @@ III. Some gardens are petals.
 **Explanation:** Wular Lake is in Jammu & Kashmir.
 
 #### Q93. Match List-I (Lake) with List-II (State)
-1. Chilka – C. Orissa  
-2. Kolleru – A. Andhra Pradesh  
-3. Sambhar – B. Rajasthan  
-4. Vembanad – D. Kerala  
+1. Chilka - C: Orissa  
+2. Kolleru - A: Andhra Pradesh  
+3. Sambhar - B: Rajasthan  
+4. Vembanad - D: Kerala  
 - (A) 2 3 1 4
 - (B) 3 2 1 4
 - (C) 1 3 4 2

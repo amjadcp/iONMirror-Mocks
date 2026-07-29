@@ -5,37 +5,37 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 2 | 100 Questi
 ## Section: Reasoning
 #### Q1. Which of the following diagrams indicates the best relation between Doctors, Human Beings and Married People?
 ![Figure Q1: Venn Diagram Options for Doctors, Human Beings, Married People](images/q1_venn_doctors.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** D
 **Explanation:** Some doctors can be married. Both doctors and married people belong to the group of human beings.
 
 #### Q2. Which of the following diagrams indicates the best relation between Judge, Thieves and Criminals?
 ![Figure Q2: Venn Diagram Options for Judge, Thieves, Criminals](images/q2_venn_judge.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** B
 **Explanation:** Thieves belong to the category of criminals. Judge is a separate entity.
 
 #### Q3. Which of the following diagrams indicates the best relation between Judge, Thieves and Criminals?
 ![Figure Q3: Venn Diagram Options](images/q3_venn.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** D
 **Explanation:** Some man can be workers while some workers can be man. Garden is a separate entity.
 
 #### Q4. Which of the following diagrams indicates the best relation between Earth, Sea and Sun?
 ![Figure Q4: Venn Diagram Options for Earth, Sea, Sun](images/q4_venn_earth.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** A
 **Explanation:** Earth contains Sea; Sun is separate.
 
@@ -215,37 +215,37 @@ M5 O9 Q14
 
 #### Q25. Find out the next figure
 ![Figure Q25: Series of shapes](images/q25_series.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** D
 **Explanation:** Pattern continues with next transformation.
 
 #### Q26. Find out the next figure
 ![Figure Q26: Cross pattern series](images/q26_cross.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** D
 **Explanation:** Consistent pattern in lines.
 
 #### Q27. Find the odd figure.
 ![Figure Q27: Line patterns](images/q27_lines.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** A
 **Explanation:** Others can be rotated into each other.
 
 #### Q28. Find the odd figure.
 ![Figure Q28: Shapes with elements](images/q28_shapes.png)
-- (A) 
-- (B) 
-- (C) 
-- (D) 
+- (A) Option A
+- (B) Option B
+- (C) Option C
+- (D) Option D 
 **Answer:** B
 **Explanation:** In others, element enclosed inside circle.
 
