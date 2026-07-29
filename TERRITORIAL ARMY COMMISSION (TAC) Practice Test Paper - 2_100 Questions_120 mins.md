@@ -2,7 +2,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 2 | 100 Questi
 
 # TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 2 | 100 Questions | 120 mins
 
-### Section: Reasoning
+## Section: Reasoning
 #### Q1. Which of the following diagrams indicates the best relation between Doctors, Human Beings and Married People?
 ![Figure Q1: Venn Diagram Options for Doctors, Human Beings, Married People](images/q1_venn_doctors.png)
 - (A) 
@@ -347,7 +347,7 @@ M5 O9 Q14
 **Answer:** A
 **Explanation:** Facing South.
 
-### Section: General Knowledge
+## Section: General Knowledge
 #### Q41. Horse latitudes lie within the atmospheric pressure belts of
 - (A) Polar high
 - (B) Equatorial low
@@ -588,7 +588,7 @@ M5 O9 Q14
 **Answer:** C
 **Explanation:** Infosys.
 
-### Section: English
+## Section: English
 #### Q71. The question is (a)/ so complicated that (b)/ it could not be solved (c)/ immediately. (d)/ No error (e)/
 - (A) (a)
 - (B) (b)

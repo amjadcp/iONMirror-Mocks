@@ -2,7 +2,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 
 # TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questions | 120 mins
 
-### Section: Reasoning
+## Section: Reasoning
 #### Q1. 1 3 5 7 ? 2 4 8 16
 - (A) 9/32
 - (B) 10/17
@@ -323,7 +323,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** A
 **Explanation:** Straight line distance calculation totals 30 km back.
 
-### Section: General Knowledge
+## Section: General Knowledge
 #### Q41. When the Sun is near the horizon during the morning or evening, it appears reddish. The phenomenon that is responsible for this observation is
 - (A) reflection of light
 - (B) refraction of light
@@ -564,7 +564,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** D
 **Explanation:** Standard nautical mile ≈ 6080 feet.
 
-### Section: English
+## Section: English
 #### Q71. Analyze the content of the passage and then answer the questions that follow passage.
 What needs to be set right is our approach to work. It is a common sight in our country of employees reporting for duty on time
 and at the same time doing little work. If an assessment is made of time they spent in gossiping, drinking tea, eating "pan" and

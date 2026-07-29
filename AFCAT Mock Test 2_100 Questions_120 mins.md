@@ -2,7 +2,7 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 
 # AFCAT Mock Test 1 | 100 Questions | 120 mins
 
-### Section: Numerical Ability
+## Section: Numerical Ability
 
 #### Q1. Find the value of $\dfrac{1}{5} + 999\dfrac{494}{495} \times 99$
 - (A) 90000
@@ -204,7 +204,7 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** B
 **Explanation:** (2+3+5+7+11)/5 = 28/5 = 5.6.
 
-### Section: Reasoning and Military Aptitude Test
+## Section: Reasoning and Military Aptitude Test
 
 #### Q26. Choose the odd one out
 - (A) atom : electron
@@ -221,6 +221,8 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 - (D) exercise : health
 **Answer:** B
 **Explanation:** In others the second is the result/consequence of the first.
+
+## Section: Reasoning and Military Aptitude Test
 
 #### Q28. Choose the odd one out
 - (A) broad : wide
@@ -468,7 +470,7 @@ III. Some gardens are petals.
 **Answer:** D
 **Explanation:** Mirror image of the given figure is option (d).
 
-### Section: English Language
+## Section: English Language
 
 #### Q56. Synonym of Hamper
 - (A) Irritate
@@ -670,7 +672,7 @@ III. Some gardens are petals.
 **Answer:** B
 **Explanation:** “More food than is required” fits the context.
 
-### Section: General Awareness
+## Section: General Awareness
 
 #### Q81. The 9th-century tripartite power struggle was among which of the following?
 - (A) Cholas, Rastrakutas and Yadavas

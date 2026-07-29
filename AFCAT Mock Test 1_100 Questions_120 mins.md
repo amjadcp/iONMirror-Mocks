@@ -2,7 +2,7 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 
 # AFCAT Mock Test 1 | 100 Questions | 120 mins
 
-### Section: English
+## Section: English
 
 #### Q1. Which of the following statements is definitely false according to the passage?
 - (A) The Union government has finalized a Rs 6,000-crore scheme to tackle the country's depleting groundwater level.
@@ -43,6 +43,8 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 - (D) According to a World Bank report, about 245 billion cubic metre of groundwater is abstracted each year in the country. This figure represents about 25% of the total global groundwater abstraction. In the past four to five decades, 80% of the rural and urban domestic water supplies in the country have been dependent on groundwater.
 **Answer:** D
 **Explanation:** The passage highlights the scale of groundwater extraction and dependence to show the critical need for the scheme.
+
+## Section: General Awareness
 
 #### Q6. I have been really busy last month. I want to ______ some good time with my friends and family.
 - (A) Allocate
@@ -284,7 +286,7 @@ Which will be the last (fifth) sentence after the rearrangement?
 **Answer:** C
 **Explanation:** Last sentence is D (other works).
 
-### Section: General Awareness
+## Section: General Awareness
 
 #### Q30. Which of the following countries does “Talgo” train belong to?
 - (A) France
@@ -478,7 +480,7 @@ Which will be the last (fifth) sentence after the rearrangement?
 **Answer:** A
 **Explanation:** Assam was the first state to ratify the GST Bill.
 
-### Section: Numerical Ability
+## Section: Numerical Ability
 
 #### Q54. Find the cost of painting all the four wall of an office which is 9 m long, 6 m broad and 5 m high at Rs 52 per sq m.
 - (A) Rs. 6800
@@ -576,7 +578,7 @@ Which will be the last (fifth) sentence after the rearrangement?
 **Answer:** A
 **Explanation:** SI per year = 135. Interest for first 4 years = 540. Interest for next 3 years on 3P = 1215. Total = 1755.
 
-### Section: Reasoning & Military Aptitude
+## Section: Reasoning & Military Aptitude
 
 #### Q66. Find the odd one out
 - (A) Butter
