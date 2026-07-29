@@ -565,7 +565,16 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Explanation:** Standard nautical mile ≈ 6080 feet.
 
 ### Section: English
-#### Q71. The employees in our country
+#### Q71. Analyze the content of the passage and then answer the questions that follow passage.
+What needs to be set right is our approach to work. It is a common sight in our country of employees reporting for duty on time
+and at the same time doing little work. If an assessment is made of time they spent in gossiping, drinking tea, eating "pan" and
+smoking cigarettes, it will be shocking to know that the time devoted to actual work is negligible. The problem is the standard
+which the leadership in administration sets for the staff. Forgot the ministers because they mix politics and administration. What
+do top bureaucrats do? What do the below down officials do? The administration set up remains week mainly because the em-
+ployees do not have the right example to follow and they are more concerned about being in the good books of the bosses than
+doing work. 
+
+The employees in our country
 - (A) are quite punctual but not duty conscious
 - (B) are not punctual, but somehow manage to complete their work
 - (C) are somewhat lazy but good natured
@@ -573,7 +582,16 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** A
 **Explanation:** Punctual but spend time in non-work activities.
 
-#### Q72. According to the writer, the administration in India
+#### Q72. Analyze the content of the passage and then answer the questions that follow passage.
+What needs to be set right is our approach to work. It is a common sight in our country of employees reporting for duty on time
+and at the same time doing little work. If an assessment is made of time they spent in gossiping, drinking tea, eating "pan" and
+smoking cigarettes, it will be shocking to know that the time devoted to actual work is negligible. The problem is the standard
+which the leadership in administration sets for the staff. Forgot the ministers because they mix politics and administration. What
+do top bureaucrats do? What do the below down officials do? The administration set up remains week mainly because the em-
+ployees do not have the right example to follow and they are more concerned about being in the good books of the bosses than
+doing work. 
+
+According to the writer, the administration in India
 - (A) is by and large effective
 - (B) is very strict and firm
 - (C) is affected by red tape
@@ -581,7 +599,16 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** D
 **Explanation:** Ineffective due to poor leadership example.
 
-#### Q73. The word 'assessment' means
+#### Q73. Analyze the content of the passage and then answer the questions that follow passage.
+What needs to be set right is our approach to work. It is a common sight in our country of employees reporting for duty on time
+and at the same time doing little work. If an assessment is made of time they spent in gossiping, drinking tea, eating "pan" and
+smoking cigarettes, it will be shocking to know that the time devoted to actual work is negligible. The problem is the standard
+which the leadership in administration sets for the staff. Forgot the ministers because they mix politics and administration. What
+do top bureaucrats do? What do the below down officials do? The administration set up remains week mainly because the em-
+ployees do not have the right example to follow and they are more concerned about being in the good books of the bosses than
+doing work. 
+
+The word 'assessment' means
 - (A) enquiry
 - (B) report
 - (C) evaluation
@@ -589,7 +616,16 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** C
 **Explanation:** Evaluation or estimation.
 
-#### Q74. The leadership in administration
+#### Q74. Analyze the content of the passage and then answer the questions that follow passage.
+What needs to be set right is our approach to work. It is a common sight in our country of employees reporting for duty on time
+and at the same time doing little work. If an assessment is made of time they spent in gossiping, drinking tea, eating "pan" and
+smoking cigarettes, it will be shocking to know that the time devoted to actual work is negligible. The problem is the standard
+which the leadership in administration sets for the staff. Forgot the ministers because they mix politics and administration. What
+do top bureaucrats do? What do the below down officials do? The administration set up remains week mainly because the em-
+ployees do not have the right example to follow and they are more concerned about being in the good books of the bosses than
+doing work. 
+
+The leadership in administration
 - (A) sets a fine example to the employees
 - (B) is of a reasonably high standard
 - (C) is composed of idealists
@@ -597,7 +633,16 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** D
 **Explanation:** Poor standard as per passage.
 
-#### Q75. The central idea of passage could be best expressed by the following
+#### Q75. Analyze the content of the passage and then answer the questions that follow passage.
+What needs to be set right is our approach to work. It is a common sight in our country of employees reporting for duty on time
+and at the same time doing little work. If an assessment is made of time they spent in gossiping, drinking tea, eating "pan" and
+smoking cigarettes, it will be shocking to know that the time devoted to actual work is negligible. The problem is the standard
+which the leadership in administration sets for the staff. Forgot the ministers because they mix politics and administration. What
+do top bureaucrats do? What do the below down officials do? The administration set up remains week mainly because the em-
+ployees do not have the right example to follow and they are more concerned about being in the good books of the bosses than
+doing work. 
+
+The central idea of passage could be best expressed by the following
 - (A) The employee outlook towards work is justified
 - (B) The employee must change their outlook towards work
 - (C) The employees would never change their work culture
@@ -605,7 +650,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** B
 **Explanation:** Need to set right approach to work.
 
-#### Q76. APPREHEND
+#### Q76. Choose the word which best expresses nearly the same meaning of the given word : APPREHEND
 - (A) Catch
 - (B) Explain
 - (C) Instant
@@ -613,7 +658,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** A
 **Explanation:** To seize or arrest.
 
-#### Q77. BENEVOLENCE
+#### Q77. Choose the word which best expresses nearly the same meaning of the given word : BENEVOLENCE
 - (A) Kind
 - (B) Malaise
 - (C) Kindness
@@ -621,7 +666,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** C
 **Explanation:** Kindness or generosity.
 
-#### Q78. METEORIC
+#### Q78. Choose the word which best expresses nearly the same meaning of the given word : METEORIC
 - (A) Dramatic
 - (B) High
 - (C) Remedial
@@ -629,7 +674,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** A
 **Explanation:** Spectacular or swift rise.
 
-#### Q79. MITIGATE
+#### Q79. Choose the word which best expresses nearly the same meaning of the given word : MITIGATE
 - (A) Heighten
 - (B) Relieve
 - (C) Misuse
@@ -637,7 +682,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** B
 **Explanation:** To make less severe.
 
-#### Q80. ONEROUS
+#### Q80. Choose the word which best expresses nearly the same meaning of the given word : ONEROUS
 - (A) Amorous
 - (B) Effortless
 - (C) Arduous
@@ -645,7 +690,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** C
 **Explanation:** Burdensome or difficult.
 
-#### Q81. TALISMAN
+#### Q81. Choose the word which best expresses nearly the same meaning of the given word : TALISMAN
 - (A) Fiction
 - (B) Charm
 - (C) Aptitude
@@ -653,7 +698,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** B
 **Explanation:** Magical charm or amulet.
 
-#### Q82. ACCOUTERMENTS
+#### Q82. Choose the word which best expresses nearly the same meaning of the given word : ACCOUTERMENTS
 - (A) Relatives
 - (B) Companions
 - (C) Blemishes
@@ -661,7 +706,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** D
 **Explanation:** Equipment or accessories.
 
-#### Q83. BONHOMIE
+#### Q83. Choose the word which best expresses nearly the same meaning of the given word : BONHOMIE
 - (A) Friendliness
 - (B) Wrath
 - (C) Very
@@ -669,7 +714,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** A
 **Explanation:** Cheerful friendliness.
 
-#### Q84. TRIVIAL
+#### Q84. Choose the word which best expresses nearly the same meaning of the given word : TRIVIAL
 - (A) Significant
 - (B) Momentous
 - (C) Unimportant
@@ -677,7 +722,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** C
 **Explanation:** Of little value or importance.
 
-#### Q85. COLLAPSE
+#### Q85. Choose the word which best expresses nearly the same meaning of the given word : COLLAPSE
 - (A) Rise
 - (B) Failure
 - (C) Rebirth
@@ -685,7 +730,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** B
 **Explanation:** Sudden failure or breakdown.
 
-#### Q86. (a) Submitted (b) Admitted (c) Comitted (d) Omitted
+#### Q86. In each of the following question, out of the given words, one word is mis-spelt. Find the mis-spelt word : (a) Submitted (b) Admitted (c) Comitted (d) Omitted
 - (A) Submitted
 - (B) Admitted
 - (C) Comitted
@@ -693,7 +738,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** C
 **Explanation:** Correct spelling: Committed.
 
-#### Q87. (a) Brilliant (b) Brilliant (c) Salient (d) Radiant
+#### Q87. In each of the following question, out of the given words, one word is mis-spelt. Find the mis-spelt word : (a) Brilliant (b) Brilliant (c) Salient (d) Radiant
 - (A) Brilliant
 - (B) Brilliant
 - (C) Salient
@@ -701,7 +746,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** A
 **Explanation:** Duplicate/misspelling issue; context points to error in first.
 
-#### Q88. (a) Recuperate (b) Regulate (c) Reinstate (d) Seperate
+#### Q88. In each of the following question, out of the given words, one word is mis-spelt. Find the mis-spelt word : (a) Recuperate (b) Regulate (c) Reinstate (d) Seperate
 - (A) Recuperate
 - (B) Regulate
 - (C) Reinstate
@@ -709,7 +754,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** D
 **Explanation:** Correct: Separate.
 
-#### Q89. FERVENT
+#### Q89. Choose the word which best expresses the opposite meaning of the word: FERVENT
 - (A) Keen
 - (B) Apathetic
 - (C) Vehement
@@ -717,7 +762,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** B
 **Explanation:** Opposite of enthusiastic/passionate.
 
-#### Q90. GUILELESS
+#### Q90. Choose the word which best expresses the opposite meaning of the word: GUILELESS
 - (A) Wily
 - (B) Trusting
 - (C) Tricky
@@ -725,7 +770,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** A
 **Explanation:** Opposite of innocent/sincere.
 
-#### Q91. ENDOW
+#### Q91. Choose the word which best expresses the opposite meaning of the word: ENDOW
 - (A) Revoke
 - (B) Provoke
 - (C) Invoke
@@ -733,7 +778,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** A
 **Explanation:** To take away (opposite of give).
 
-#### Q92. REFULGENT
+#### Q92. Choose the word which best expresses the opposite meaning of the word: REFULGENT
 - (A) Lustrous
 - (B) Lusty
 - (C) Dull
@@ -741,7 +786,7 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** C
 **Explanation:** Opposite of shining/radiant.
 
-#### Q93. INCISIVE
+#### Q93. Choose the word which best expresses the opposite meaning of the word: INCISIVE
 - (A) Dull
 - (B) Keen
 - (C) Sharp
@@ -789,7 +834,9 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** C
 **Explanation:** Distinguishing feature.
 
-#### Q99. In a democratic society every (a)/ voter has a (b)/ responsibility to cast their vote (c)/ in the election process. (d)/ No error (e)/
+#### Q99. In each of the following sentences find out which part of the sentence has an error.
+
+In a democratic society every (a)/ voter has a (b)/ responsibility to cast their vote (c)/ in the election process. (d)/ No error (e)/
 - (A) (a)
 - (B) (b)
 - (C) (c)
@@ -797,7 +844,9 @@ FILENAME: TERRITORIAL ARMY COMMISSION (TAC) Practice Test Paper - 1 | 100 Questi
 **Answer:** C
 **Explanation:** "their" should be "his/her" for singular "every voter".
 
-#### Q100. If the employees would have (a)/ succeeded in their attempt (b)/ they would have (c)/ achieved a good target. (d)/ No error (e)/
+#### Q100. In each of the following sentences find out which part of the sentence has an error.
+
+If the employees would have (a)/ succeeded in their attempt (b)/ they would have (c)/ achieved a good target. (d)/ No error (e)/
 - (A) (a)
 - (B) (b)
 - (C) (c)
