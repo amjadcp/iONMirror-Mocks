@@ -206,13 +206,13 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 
 #### Q26. Rearrange the following six sentences a, b, c, d, and e in the proper sequence to form a meaningful paragraph; then answer the questions given below them. 
 
-a) Grossman is the first Israeli writer to win the prize.
-b) Israeli author David Grossman won the Man Booker International Prize on Wednesday, 14 June
+A. Grossman is the first Israeli writer to win the prize.
+B. Israeli author David Grossman won the Man Booker International Prize on Wednesday, 14 June
 2017, for his novel A Horse Walks Into a Bar .
-c) He will share the £50,000 ($64,000) award with translator Jessica Cohen.
-d) Other works have included The Yellow Wind , a prescient, non-fiction look at Israel’s occupation
+C. He will share the £50,000 ($64,000) award with translator Jessica Cohen.
+D. Other works have included The Yellow Wind , a prescient, non-fiction look at Israel’s occupation
 ahead of the first Palestinian intifada that erupted in 1987.
-e) The book unfolds over the course of a stand-up show during which comedian Dovelah Gee
+E. The book unfolds over the course of a stand-up show during which comedian Dovelah Gee
 exposes a wound he has been living with for years and the difficult choice he had to make between
 the two people who were dearest to him.
 
@@ -226,13 +226,13 @@ Which will be the second sentence after the rearrangement?
 
 #### Q27. Rearrange the following six sentences a, b, c, d, and e in the proper sequence to form a meaningful paragraph; then answer the questions given below them. 
 
-a) Grossman is the first Israeli writer to win the prize.
-b) Israeli author David Grossman won the Man Booker International Prize on Wednesday, 14 June
+A. Grossman is the first Israeli writer to win the prize.
+B. Israeli author David Grossman won the Man Booker International Prize on Wednesday, 14 June
 2017, for his novel A Horse Walks Into a Bar .
-c) He will share the £50,000 ($64,000) award with translator Jessica Cohen.
-d) Other works have included The Yellow Wind , a prescient, non-fiction look at Israel’s occupation
+C. He will share the £50,000 ($64,000) award with translator Jessica Cohen.
+D. Other works have included The Yellow Wind , a prescient, non-fiction look at Israel’s occupation
 ahead of the first Palestinian intifada that erupted in 1987.
-e) The book unfolds over the course of a stand-up show during which comedian Dovelah Gee
+E. The book unfolds over the course of a stand-up show during which comedian Dovelah Gee
 exposes a wound he has been living with for years and the difficult choice he had to make between
 the two people who were dearest to him.
 
@@ -246,15 +246,15 @@ Which will be the third sentence after the rearrangement?
 
 #### Q28. Rearrange the following six sentences a, b, c, d, and e in the proper sequence to form a meaningful paragraph; then answer the questions given below them. 
 
-a) Grossman is the first Israeli writer to win the prize.
-b) Israeli author David Grossman won the Man Booker International Prize on Wednesday, 14 June
+A. Grossman is the first Israeli writer to win the prize.
+B. Israeli author David Grossman won the Man Booker International Prize on Wednesday, 14 June
 2017, for his novel A Horse Walks Into a Bar .
-c) He will share the £50,000 ($64,000) award with translator Jessica Cohen.
-d) Other works have included The Yellow Wind , a prescient, non-fiction look at Israel’s occupation
+C. He will share the £50,000 ($64,000) award with translator Jessica Cohen.
+D. Other works have included The Yellow Wind , a prescient, non-fiction look at Israel’s occupation
 ahead of the first Palestinian intifada that erupted in 1987.
-e) The book unfolds over the course of a stand-up show during which comedian Dovelah Gee
+E. The book unfolds over the course of a stand-up show during which comedian Dovelah Gee
 exposes a wound he has been living with for years and the difficult choice he had to make between
-the two people who were dearest to him. 
+the two people who were dearest to him.
 
 Which will be the first sentence after the rearrangement?
 - (A) B
@@ -266,15 +266,15 @@ Which will be the first sentence after the rearrangement?
 
 #### Q29. Rearrange the following six sentences a, b, c, d, and e in the proper sequence to form a meaningful paragraph; then answer the questions given below them. 
 
-a) Grossman is the first Israeli writer to win the prize.
-b) Israeli author David Grossman won the Man Booker International Prize on Wednesday, 14 June
+A. Grossman is the first Israeli writer to win the prize.
+B. Israeli author David Grossman won the Man Booker International Prize on Wednesday, 14 June
 2017, for his novel A Horse Walks Into a Bar .
-c) He will share the £50,000 ($64,000) award with translator Jessica Cohen.
-d) Other works have included The Yellow Wind , a prescient, non-fiction look at Israel’s occupation
+C. He will share the £50,000 ($64,000) award with translator Jessica Cohen.
+D. Other works have included The Yellow Wind , a prescient, non-fiction look at Israel’s occupation
 ahead of the first Palestinian intifada that erupted in 1987.
-e) The book unfolds over the course of a stand-up show during which comedian Dovelah Gee
+E. The book unfolds over the course of a stand-up show during which comedian Dovelah Gee
 exposes a wound he has been living with for years and the difficult choice he had to make between
-the two people who were dearest to him. 
+the two people who were dearest to him.
 
 Which will be the last (fifth) sentence after the rearrangement?
 - (A) B
