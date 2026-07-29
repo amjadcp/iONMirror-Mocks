@@ -84,7 +84,7 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** A
 **Explanation:** “Adapt to” means adjust to changes.
 
-#### Q11. TRANSFORM
+#### Q11. Find the word which is most nearly the same in meaning to the given word - TRANSFORM
 - (A) Hold
 - (B) Affect
 - (C) Alter
@@ -92,7 +92,7 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** C
 **Explanation:** Transform means to completely change in form or appearance (alter).
 
-#### Q12. FALLACY
+#### Q12. Find the word which is most nearly the same in meaning to the given word - FALLACY
 - (A) Falsehood
 - (B) Belief
 - (C) Expression
@@ -100,7 +100,7 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** A
 **Explanation:** Fallacy means a false or mistaken belief / falsehood.
 
-#### Q13. SERENE
+#### Q13. Find the word which is most nearly the same in meaning to the given word - SERENE
 - (A) Nervous
 - (B) Excited
 - (C) Calm
@@ -108,7 +108,7 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** C
 **Explanation:** Serene means peaceful / calm.
 
-#### Q14. EXPOSE
+#### Q14. Find the word which is most nearly the same in meaning to the given word - EXPOSE
 - (A) Crack
 - (B) Secretive
 - (C) Trait
@@ -116,7 +116,7 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** D
 **Explanation:** Expose means to uncover or reveal.
 
-#### Q15. IRKSOME
+#### Q15. Find the word which is most nearly the same in meaning to the given word - IRKSOME
 - (A) Happy
 - (B) Annoying
 - (C) Grateful
@@ -124,7 +124,7 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** B
 **Explanation:** Irksome means annoying or irritating.
 
-#### Q16. Find the appropriate error.
+#### Q16. A sentence is given, divided into parts. One of the parts may contain an error. You are required to identify the part that contains an error, and mark it as the answer. Ignore errors of punctuation. In case the sentence is correct as it is, then mark option (4), as your answer.
 - (A) They were deemed to
 - (B) has been holding
 - (C) the offices of profit
@@ -132,7 +132,7 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** B
 **Explanation:** Replace “has” with “have” (plural subject).
 
-#### Q17. Find the appropriate error.
+#### Q17. A sentence is given, divided into parts. One of the parts may contain an error. You are required to identify the part that contains an error, and mark it as the answer. Ignore errors of punctuation. In case the sentence is correct as it is, then mark option (4), as your answer.
 - (A) There is enough data
 - (B) of the learning
 - (C) crisis in India.
@@ -140,7 +140,7 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** B
 **Explanation:** Replace “of” with “about”.
 
-#### Q18. Find the appropriate error.
+#### Q18. A sentence is given, divided into parts. One of the parts may contain an error. You are required to identify the part that contains an error, and mark it as the answer. Ignore errors of punctuation. In case the sentence is correct as it is, then mark option (4), as your answer.
 - (A) One cannot be a friend
 - (B) of truth without
 - (C) living in the edge
@@ -148,7 +148,7 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** C
 **Explanation:** Correct idiom is “living on the edge”.
 
-#### Q19. Find the appropriate error.
+#### Q19. A sentence is given, divided into parts. One of the parts may contain an error. You are required to identify the part that contains an error, and mark it as the answer. Ignore errors of punctuation. In case the sentence is correct as it is, then mark option (4), as your answer.
 - (A) They all were a part of
 - (B) the nefarious plot
 - (C) and were caught eventually
@@ -156,7 +156,7 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** D
 **Explanation:** No error in the sentence.
 
-#### Q20. Find the appropriate error.
+#### Q20. A sentence is given, divided into parts. One of the parts may contain an error. You are required to identify the part that contains an error, and mark it as the answer. Ignore errors of punctuation. In case the sentence is correct as it is, then mark option (4), as your answer.
 - (A) Women empowerment is an
 - (B) ongoing topic which
 - (C) crop up everywhere
@@ -164,7 +164,7 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** C
 **Explanation:** Replace “crop” with “crops” (singular subject).
 
-#### Q21. Find the correct word.
+#### Q21. A sentence is given, divided into parts. One of the parts may contain an error. You are required to identify the part that contains an error, and mark it as the answer. Ignore errors of punctuation. In case the sentence is correct as it is, then mark option (4), as your answer.
 - (A) Callos
 - (B) Callous
 - (C) Callious
@@ -204,7 +204,19 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** C
 **Explanation:** Correct spelling is Manipulate.
 
-#### Q26. Which will be the second sentence after the rearrangement?
+#### Q26. Rearrange the following six sentences a, b, c, d, and e in the proper sequence to form a meaningful paragraph; then answer the questions given below them. 
+
+a) Grossman is the first Israeli writer to win the prize.
+b) Israeli author David Grossman won the Man Booker International Prize on Wednesday, 14 June
+2017, for his novel A Horse Walks Into a Bar .
+c) He will share the £50,000 ($64,000) award with translator Jessica Cohen.
+d) Other works have included The Yellow Wind , a prescient, non-fiction look at Israel’s occupation
+ahead of the first Palestinian intifada that erupted in 1987.
+e) The book unfolds over the course of a stand-up show during which comedian Dovelah Gee
+exposes a wound he has been living with for years and the difficult choice he had to make between
+the two people who were dearest to him.
+
+Which will be the second sentence after the rearrangement?
 - (A) E
 - (B) B
 - (C) A
@@ -212,7 +224,19 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** D
 **Explanation:** Correct sequence is B-C-A-E-D. Second sentence is C.
 
-#### Q27. Which will be the third sentence after the rearrangement?
+#### Q27. Rearrange the following six sentences a, b, c, d, and e in the proper sequence to form a meaningful paragraph; then answer the questions given below them. 
+
+a) Grossman is the first Israeli writer to win the prize.
+b) Israeli author David Grossman won the Man Booker International Prize on Wednesday, 14 June
+2017, for his novel A Horse Walks Into a Bar .
+c) He will share the £50,000 ($64,000) award with translator Jessica Cohen.
+d) Other works have included The Yellow Wind , a prescient, non-fiction look at Israel’s occupation
+ahead of the first Palestinian intifada that erupted in 1987.
+e) The book unfolds over the course of a stand-up show during which comedian Dovelah Gee
+exposes a wound he has been living with for years and the difficult choice he had to make between
+the two people who were dearest to him.
+
+Which will be the third sentence after the rearrangement?
 - (A) C
 - (B) A
 - (C) B
@@ -220,7 +244,19 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** B
 **Explanation:** Third sentence is A.
 
-#### Q28. Which will be the first sentence after the rearrangement?
+#### Q28. Rearrange the following six sentences a, b, c, d, and e in the proper sequence to form a meaningful paragraph; then answer the questions given below them. 
+
+a) Grossman is the first Israeli writer to win the prize.
+b) Israeli author David Grossman won the Man Booker International Prize on Wednesday, 14 June
+2017, for his novel A Horse Walks Into a Bar .
+c) He will share the £50,000 ($64,000) award with translator Jessica Cohen.
+d) Other works have included The Yellow Wind , a prescient, non-fiction look at Israel’s occupation
+ahead of the first Palestinian intifada that erupted in 1987.
+e) The book unfolds over the course of a stand-up show during which comedian Dovelah Gee
+exposes a wound he has been living with for years and the difficult choice he had to make between
+the two people who were dearest to him. 
+
+Which will be the first sentence after the rearrangement?
 - (A) B
 - (B) D
 - (C) C
@@ -228,7 +264,19 @@ FILENAME: AFCAT Mock Test 1 | 100 Questions | 120 mins.md
 **Answer:** A
 **Explanation:** First sentence is B (introduction).
 
-#### Q29. Which will be the last (fifth) sentence after the rearrangement?
+#### Q29. Rearrange the following six sentences a, b, c, d, and e in the proper sequence to form a meaningful paragraph; then answer the questions given below them. 
+
+a) Grossman is the first Israeli writer to win the prize.
+b) Israeli author David Grossman won the Man Booker International Prize on Wednesday, 14 June
+2017, for his novel A Horse Walks Into a Bar .
+c) He will share the £50,000 ($64,000) award with translator Jessica Cohen.
+d) Other works have included The Yellow Wind , a prescient, non-fiction look at Israel’s occupation
+ahead of the first Palestinian intifada that erupted in 1987.
+e) The book unfolds over the course of a stand-up show during which comedian Dovelah Gee
+exposes a wound he has been living with for years and the difficult choice he had to make between
+the two people who were dearest to him. 
+
+Which will be the last (fifth) sentence after the rearrangement?
 - (A) B
 - (B) C
 - (C) D
