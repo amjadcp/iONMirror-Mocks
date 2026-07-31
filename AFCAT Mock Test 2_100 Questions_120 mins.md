@@ -768,17 +768,17 @@ III. Some gardens are petals.
 
 ### Q93. Match List-I (Lake) with List-II (State)
 
-1. Chilka   | A. Orissa  
-2. Kolleru  | B. Andhra Pradesh  
-3. Sambhar  | C. Rajasthan  
-4. Vembanad | D. Kerala  
+I.  Chilka  | A. Orissa  
+II. Kolleru | B. Andhra Pradesh  
+III.Sambhar | C. Rajasthan  
+IV. Vembanad| D. Kerala  
 
     |A|B|C|D|
 
-- (A) 2 3 1 4
-- (B) 3 2 1 4
-- (C) 1 3 4 2
-- (D) 1 3 2 4
+- (A) II  III I  IV
+- (B) III  II I  IV
+- (C) I   III IV II
+- (D) I   III II IV
 **Answer:** (A)
 **Explanation:** Correct matching is Chilka-Orissa, Kolleru-Andhra Pradesh, Sambhar-Rajasthan, Vembanad-Kerala.
 
