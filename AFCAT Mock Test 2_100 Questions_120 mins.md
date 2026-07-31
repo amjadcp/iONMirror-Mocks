@@ -549,42 +549,42 @@ III. Some gardens are petals.
 **Explanation:** Means to try every possible means / make every effort.
 
 ### Q66. The oxygen content of Mars is not (a)/ sufficient enough to support life (b)/ as we know it. (c)/ No error (d)
-- (A) (a)
-- (B) (b)
-- (C) (c)
-- (D) (d)
+- (A) a
+- (B) b
+- (C) c
+- (D) d
 **Answer:** (B)
 **Explanation:** “Sufficient enough” is redundant; use either “sufficient” or “enough”.
 
 ### Q67. He told his friends that (a)/ each of them (b)/ should be able to carry out the orders oneself. (c)/ No error (d)
-- (A) (a)
-- (B) (b)
-- (C) (c)
-- (D) (d)
+- (A) a
+- (B) b
+- (C) c
+- (D) d
 **Answer:** (C)
 **Explanation:** “Oneself” should be “himself/themselves”.
 
 ### Q68. He is (A)/ one of those students (B)/ who comes late regularly. (C)/ No error (D)
-- (A) (A)
-- (B) (B)
-- (C) (C)
-- (D) (D)
+- (A) A
+- (B) B
+- (C) C
+- (D) D
 **Answer:** (C)
 **Explanation:** “Comes” should be “come” (plural relative pronoun).
 
 ### Q69. For a long time (a)/ I did not know who was sitting besides me (b)/ because it was so dark. (c)/ No error (d)
-- (A) (a)
-- (B) (b)
-- (C) (c)
-- (D) (d)
+- (A) a
+- (B) b
+- (C) c
+- (D) d
 **Answer:** (B)
 **Explanation:** “Besides” should be “beside”.
 
 ### Q70. The police has (a)/ arrested the thief (b)/ who broke into my house (c)/ last night. (d)
-- (A) (a)
-- (B) (b)
-- (C) (c)
-- (D) (d)
+- (A) a
+- (B) b
+- (C) c
+- (D) d
 **Answer:** (A)
 **Explanation:** “Police” is plural; use “have”.
 
