@@ -801,19 +801,22 @@ The central idea of passage could be best expressed by the following
 **Explanation:** Distinguishing feature.
 
 ### Q99. In each of the following sentences find out which part of the sentence has an error.
-In a democratic society every (a)/ voter has a (b)/ responsibility to cast their vote (c)/ in the election process. (d)/ No error (e)/
-- (A) (a)
-- (B) (b)
-- (C) (c)
-- (D) (d)
+
+> In a democratic society every **(a)/** voter has a **(b)/** responsibility to cast their vote **(c)/** in the election process **(d)** / No error **(e)**
+
+- (A) Part (a)
+- (B) Part (b)
+- (C) Part (c)
+- (D) Part (d)
 **Answer:** (C)
 **Explanation:** "their" should be "his/her" for singular "every voter".
 
 ### Q100. In each of the following sentences find out which part of the sentence has an error.
-If the employees would have (a)/ succeeded in their attempt (b)/ they would have (c)/ achieved a good target. (d)/ No error (e)/
-- (A) (a)
-- (B) (b)
-- (C) (c)
-- (D) (d)
+
+> If the employees would have **(a)/** succeeded in their attempt **(b)/** they would have **(c)/** achieved a good target. **(d)/** No error (e)/
+- (A) Part (a)
+- (B) Part (b)
+- (C) Part (c)
+- (D) Part (d)
 **Answer:** (A)
 **Explanation:** Should be "had succeeded" (past perfect).
