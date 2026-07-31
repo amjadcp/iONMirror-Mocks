@@ -767,10 +767,14 @@ III. Some gardens are petals.
 **Explanation:** Wular Lake is in Jammu & Kashmir.
 
 ### Q93. Match List-I (Lake) with List-II (State)
-1. Chilka - C: Orissa  
-2. Kolleru - A: Andhra Pradesh  
-3. Sambhar - B: Rajasthan  
-4. Vembanad - D: Kerala  
+
+1. Chilka   | A. Orissa  
+2. Kolleru  | B. Andhra Pradesh  
+3. Sambhar  | C. Rajasthan  
+4. Vembanad | D. Kerala  
+
+    |A|B|C|D|
+
 - (A) 2 3 1 4
 - (B) 3 2 1 4
 - (C) 1 3 4 2
