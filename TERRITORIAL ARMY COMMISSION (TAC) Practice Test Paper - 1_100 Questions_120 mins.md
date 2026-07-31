@@ -2,7 +2,9 @@
 
 ## Section: Reasoning
 
-### Q1. 1 3 5 7 ? 2 4 8 16
+### Q1. Choose the correct alternative that will continue the same pattern.
+
+1 3 5 7 ? 2 4 8 16
 - (A) 9/32
 - (B) 10/17
 - (C) 11/34
@@ -10,7 +12,9 @@
 **Answer:** (A)
 **Explanation:** Numerators form series 1,3,5,7,9 (add 2). Denominators form 2,4,8,16,32 (powers of 2). Next term 9/32.
 
-### Q2. 2, 5, 9, ?, 20, 27
+### Q2. Choose the correct alternative that will continue the same pattern.
+
+2, 5, 9, ?, 20, 27
 - (A) 14
 - (B) 16
 - (C) 18
@@ -18,7 +22,9 @@
 **Answer:** (A)
 **Explanation:** Pattern is +3, +4, +5, +6,... Missing term = 9 + 5 = 14.
 
-### Q3. 11, 13, 17, 19, 23, 25, ?
+### Q3. Choose the correct alternative that will continue the same pattern.
+
+11, 13, 17, 19, 23, 25, ?
 - (A) 26
 - (B) 27
 - (C) 29
@@ -26,7 +32,9 @@
 **Answer:** (C)
 **Explanation:** Pattern +2, +4, +2, +4,... Missing term = 25 + 4 = 29.
 
-### Q4. -2/5, -3/5, -4/5, -5/25, ?
+### Q4. Choose the correct alternative that will continue the same pattern.
+
+-2/5, -3/5, -4/5, -5/25, ?
 - (A) -6/5/5
 - (B) -6/25/5
 - (C) -6/125
@@ -34,7 +42,9 @@
 **Answer:** (B)
 **Explanation:** Numerators: consecutive numbers. Denominators multiplied by √5 each time. Next is -6/(25√5).
 
-### Q5. R, U, X, A, D, ?
+### Q5. Choose the missing term out of the given alternatives
+
+R, U, X, A, D, ?
 - (A) F
 - (B) G
 - (C) H
@@ -42,7 +52,9 @@
 **Answer:** (B)
 **Explanation:** Each letter +3 positions: R→U→X→A→D→G.
 
-### Q6. PMT, OOS, NQR, MSQ, ?
+### Q6. Choose the missing term out of the given alternatives
+
+PMT, OOS, NQR, MSQ, ?
 - (A) LUP
 - (B) LVP
 - (C) LVR
@@ -50,7 +62,9 @@
 **Answer:** (A)
 **Explanation:** 1st letters -1, 2nd +2, 3rd -1 each step.
 
-### Q7. __ aba __ ba __ab
+### Q7. Choose the missing term out of the given alternatives
+
+__ aba __ ba __ab
 - (A) abbba
 - (B) abbab
 - (C) baabb
@@ -58,7 +72,9 @@
 **Answer:** (B)
 **Explanation:** Pattern repeats "ab" / "abb" structure leading to abbab.
 
-### Q8. 2ZG, 7Y7, 14X9, 23W11, 34V13, ?
+### Q8. Choose the missing term out of the given alternatives
+
+2ZG, 7Y7, 14X9, 23W11, 34V13, ?
 - (A) 27U24
 - (B) 45U15
 - (C) 47U15
@@ -66,7 +82,9 @@
 **Answer:** (C)
 **Explanation:** 1st numbers +5,+7,+9,+11,+13 →47. 2nd letters -1 each. 3rd +2 each.
 
-### Q9. U, B, I, P, W, ?
+### Q9. Choose the missing term out of the given alternatives
+
+U, B, I, P, W, ?
 - (A) D
 - (B) F
 - (C) Q
@@ -74,7 +92,9 @@
 **Answer:** (A)
 **Explanation:** Each +7 positions in alphabet.
 
-### Q10. ABD, DGK, HMS, MTB, SBL, ?
+### Q10. Choose the missing term out of the given alternatives
+
+ABD, DGK, HMS, MTB, SBL, ?
 - (A) XKW
 - (B) ZAB
 - (C) ZKU
@@ -82,7 +102,9 @@
 **Answer:** (D)
 **Explanation:** 1st letters +3,+4,+5,+6,+7. 2nd +5,+6,+7,+8,+9. 3rd +7,+8,+9,+10,+11.
 
-### Q11. a__ ba__ b__ b__a__ma__
+### Q11. Choose the missing term out of the given alternatives
+
+a__ ba__ b__ b__a__ma__
 - (A) abaab
 - (B) abbab
 - (C) aabba
@@ -90,7 +112,9 @@
 **Answer:** (D)
 **Explanation:** Repeating "abb" pattern.
 
-### Q12. 2A11, 4D13, 12G17, ?
+### Q12. Choose the missing term out of the given alternatives
+
+2A11, 4D13, 12G17, ?
 - (A) 36I19
 - (B) 36J21
 - (C) 48J21
@@ -98,7 +122,9 @@
 **Answer:** (C)
 **Explanation:** 1st: *2,*3,*4 →48. 2nd +3 each. 3rd +2,+4,+6 →21.
 
-### Q13. Ship: Sea :: Camel : ?
+### Q13. Choose the correct alternative which shows the same relationship.
+
+Ship: Sea :: Camel : ?
 - (A) Forest
 - (B) Land
 - (C) Mountain
@@ -106,7 +132,9 @@
 **Answer:** (D)
 **Explanation:** Ship is principal transport in sea; camel in desert.
 
-### Q14. Skirmish: War :: Disease : ?
+### Q14. Choose the correct alternative which shows the same relationship.
+
+Skirmish: War :: Disease : ?
 - (A) Medicine
 - (B) Patient
 - (C) Epidemic
@@ -114,7 +142,9 @@
 **Answer:** (C)
 **Explanation:** Second is intense form of first.
 
-### Q15. Reading: Knowledge :: Work : ?
+### Q15. Choose the correct alternative which shows the same relationship.
+
+Reading: Knowledge :: Work : ?
 - (A) Experience
 - (B) Engagement
 - (C) Employment
@@ -122,7 +152,9 @@
 **Answer:** (A)
 **Explanation:** Second acquired from first.
 
-### Q16. Misogamy: Marriage :: Misogyny : ?
+### Q16. Choose the correct alternative which shows the same relationship.
+
+Misogamy: Marriage :: Misogyny : ?
 - (A) Children
 - (B) Husband
 - (C) Relations
@@ -130,7 +162,9 @@
 **Answer:** (D)
 **Explanation:** First is hatred for second.
 
-### Q17. Coherent : Consistent :: Irate : ?
+### Q17. Choose the correct alternative which shows the same relationship.
+
+Coherent : Consistent :: Irate : ?
 - (A) Angry
 - (B) Unreasonable
 - (C) Unhappy
@@ -138,7 +172,9 @@
 **Answer:** (A)
 **Explanation:** Synonyms.
 
-### Q18. Victory: Encouragement :: Failure : ?
+### Q18. Choose the correct alternative which shows the same relationship.
+
+Victory: Encouragement :: Failure : ?
 - (A) Sadness
 - (B) Defeat
 - (C) Anger
@@ -146,7 +182,9 @@
 **Answer:** (D)
 **Explanation:** First causes second.
 
-### Q19. Violet : Orange : Yellow : ?
+### Q19. Choose the correct alternative which shows the same group relationship
+
+Violet : Orange : Yellow : ?
 - (A) Purple
 - (B) Blue
 - (C) White
@@ -154,7 +192,9 @@
 **Answer:** (B)
 **Explanation:** All are colours of a rainbow.
 
-### Q20. Root : Stem : Branch : ?
+### Q20. Choose the correct alternative which shows the same group relationship
+
+Root : Stem : Branch : ?
 - (A) Wood
 - (B) Leaf
 - (C) Tree
@@ -162,7 +202,9 @@
 **Answer:** (B)
 **Explanation:** All are parts of a tree.
 
-### Q21. Hair : Grass : Fur : ?
+### Q21. Choose the correct alternative which shows the same group relationship
+
+Hair : Grass : Fur : ?
 - (A) Feather
 - (B) Cloth
 - (C) Wood
@@ -170,7 +212,9 @@
 **Answer:** (A)
 **Explanation:** All protect the surface.
 
-### Q22. Snake : Chameleon : Lizard : ?
+### Q22. Choose the correct alternative which shows the same group relationship
+
+Snake : Chameleon : Lizard : ?
 - (A) Crocodile
 - (B) Frog
 - (C) Tortoise
@@ -210,7 +254,8 @@
 **Answer:** (A)
 **Explanation:** Others are parts of a house.
 
-### Q27. (a) Sky : Cloud (b) Purse : Wallet (c) Cupboard : Almirah (d) Chair : Stool
+### Q27. Choose the pair in which the words are diffently related
+
 - (A) Sky : Cloud
 - (B) Purse : Wallet
 - (C) Cupboard : Almirah
@@ -218,7 +263,8 @@
 **Answer:** (A)
 **Explanation:** In others, words denote things serving same purpose.
 
-### Q28. (a) Malaria : Protozoa (b) Yeast : Fungi (c) Typhoid : Bacteria (d) Polio : Virus
+### Q28. Choose the pair in which the words are diffently related
+
 - (A) Malaria : Protozoa
 - (B) Yeast : Fungi
 - (C) Typhoid : Bacteria
@@ -226,7 +272,8 @@
 **Answer:** (B)
 **Explanation:** In others, first is disease caused by second.
 
-### Q29. (a) Principal : School (b) Soldier : Barrack (c) Artist : Troupe (d) Singer : Chorus
+### Q29. Choose the pair in which the words are diffently related
+
 - (A) Principal : School
 - (B) Soldier : Barrack
 - (C) Artist : Troupe
@@ -234,7 +281,8 @@
 **Answer:** (C)
 **Explanation:** In others, second is collective group of first.
 
-### Q30. (a) Fan : Blades (b) Lamp : Bulb (c) Clock : Alarm (d) Bicycle : Pedal
+### Q30. Choose the pair in which the words are diffently related
+
 - (A) Fan : Blades
 - (B) Lamp : Bulb
 - (C) Clock : Alarm
@@ -568,7 +616,7 @@
 
 ### Q71. Analyze the content of the passage and then answer the questions that follow passage.
 What needs to be set right is our approach to work. It is a common sight in our country of employees reporting for duty on time and at the same time doing little work. If an assessment is made of time they spent in gossiping, drinking tea, eating "pan" and smoking cigarettes, it will be shocking to know that the time devoted to actual work is negligible. The problem is the standard which the leadership in administration sets for the staff. Forgot the ministers because they mix politics and administration. What do top bureaucrats do? What do the below down officials do? The administration set up remains week mainly because the employees do not have the right example to follow and they are more concerned about being in the good books of the bosses than doing work.
-The employees in our country
+**The employees in our country ____**
 - (A) are quite punctual but not duty conscious
 - (B) are not punctual, but somehow manage to complete their work
 - (C) are somewhat lazy but good natured
@@ -578,7 +626,7 @@ The employees in our country
 
 ### Q72. Analyze the content of the passage and then answer the questions that follow passage.
 What needs to be set right is our approach to work. It is a common sight in our country of employees reporting for duty on time and at the same time doing little work. If an assessment is made of time they spent in gossiping, drinking tea, eating "pan" and smoking cigarettes, it will be shocking to know that the time devoted to actual work is negligible. The problem is the standard which the leadership in administration sets for the staff. Forgot the ministers because they mix politics and administration. What do top bureaucrats do? What do the below down officials do? The administration set up remains week mainly because the employees do not have the right example to follow and they are more concerned about being in the good books of the bosses than doing work.
-According to the writer, the administration in India
+**According to the writer, the administration in India ____**
 - (A) is by and large effective
 - (B) is very strict and firm
 - (C) is affected by red tape
@@ -588,7 +636,7 @@ According to the writer, the administration in India
 
 ### Q73. Analyze the content of the passage and then answer the questions that follow passage.
 What needs to be set right is our approach to work. It is a common sight in our country of employees reporting for duty on time and at the same time doing little work. If an assessment is made of time they spent in gossiping, drinking tea, eating "pan" and smoking cigarettes, it will be shocking to know that the time devoted to actual work is negligible. The problem is the standard which the leadership in administration sets for the staff. Forgot the ministers because they mix politics and administration. What do top bureaucrats do? What do the below down officials do? The administration set up remains week mainly because the employees do not have the right example to follow and they are more concerned about being in the good books of the bosses than doing work.
-The word 'assessment' means
+**The word 'assessment' means**
 - (A) enquiry
 - (B) report
 - (C) evaluation
@@ -598,7 +646,7 @@ The word 'assessment' means
 
 ### Q74. Analyze the content of the passage and then answer the questions that follow passage.
 What needs to be set right is our approach to work. It is a common sight in our country of employees reporting for duty on time and at the same time doing little work. If an assessment is made of time they spent in gossiping, drinking tea, eating "pan" and smoking cigarettes, it will be shocking to know that the time devoted to actual work is negligible. The problem is the standard which the leadership in administration sets for the staff. Forgot the ministers because they mix politics and administration. What do top bureaucrats do? What do the below down officials do? The administration set up remains week mainly because the employees do not have the right example to follow and they are more concerned about being in the good books of the bosses than doing work.
-The leadership in administration
+**The leadership in administration _____**
 - (A) sets a fine example to the employees
 - (B) is of a reasonably high standard
 - (C) is composed of idealists
@@ -608,7 +656,7 @@ The leadership in administration
 
 ### Q75. Analyze the content of the passage and then answer the questions that follow passage.
 What needs to be set right is our approach to work. It is a common sight in our country of employees reporting for duty on time and at the same time doing little work. If an assessment is made of time they spent in gossiping, drinking tea, eating "pan" and smoking cigarettes, it will be shocking to know that the time devoted to actual work is negligible. The problem is the standard which the leadership in administration sets for the staff. Forgot the ministers because they mix politics and administration. What do top bureaucrats do? What do the below down officials do? The administration set up remains week mainly because the employees do not have the right example to follow and they are more concerned about being in the good books of the bosses than doing work.
-The central idea of passage could be best expressed by the following
+**The central idea of passage could be best expressed by the following**
 - (A) The employee outlook towards work is justified
 - (B) The employee must change their outlook towards work
 - (C) The employees would never change their work culture
@@ -616,7 +664,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (B)
 **Explanation:** Need to set right approach to work.
 
-### Q76. Choose the word which best expresses nearly the same meaning of the given word : APPREHEND
+### Q76. Choose the word which best expresses nearly the same meaning of the given word : **APPREHEND**
 - (A) Catch
 - (B) Explain
 - (C) Instant
@@ -624,7 +672,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (A)
 **Explanation:** To seize or arrest.
 
-### Q77. Choose the word which best expresses nearly the same meaning of the given word : BENEVOLENCE
+### Q77. Choose the word which best expresses nearly the same meaning of the given word : **BENEVOLENCE**
 - (A) Kind
 - (B) Malaise
 - (C) Kindness
@@ -632,7 +680,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (C)
 **Explanation:** Kindness or generosity.
 
-### Q78. Choose the word which best expresses nearly the same meaning of the given word : METEORIC
+### Q78. Choose the word which best expresses nearly the same meaning of the given word : **METEORIC**
 - (A) Dramatic
 - (B) High
 - (C) Remedial
@@ -640,7 +688,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (A)
 **Explanation:** Spectacular or swift rise.
 
-### Q79. Choose the word which best expresses nearly the same meaning of the given word : MITIGATE
+### Q79. Choose the word which best expresses nearly the same meaning of the given word : **MITIGATE**
 - (A) Heighten
 - (B) Relieve
 - (C) Misuse
@@ -648,7 +696,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (B)
 **Explanation:** To make less severe.
 
-### Q80. Choose the word which best expresses nearly the same meaning of the given word : ONEROUS
+### Q80. Choose the word which best expresses nearly the same meaning of the given word : **ONEROUS**
 - (A) Amorous
 - (B) Effortless
 - (C) Arduous
@@ -656,7 +704,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (C)
 **Explanation:** Burdensome or difficult.
 
-### Q81. Choose the word which best expresses nearly the same meaning of the given word : TALISMAN
+### Q81. Choose the word which best expresses nearly the same meaning of the given word : **TALISMAN**
 - (A) Fiction
 - (B) Charm
 - (C) Aptitude
@@ -664,7 +712,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (B)
 **Explanation:** Magical charm or amulet.
 
-### Q82. Choose the word which best expresses nearly the same meaning of the given word : ACCOUTERMENTS
+### Q82. Choose the word which best expresses nearly the same meaning of the given word : **ACCOUTERMENTS**
 - (A) Relatives
 - (B) Companions
 - (C) Blemishes
@@ -672,7 +720,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (D)
 **Explanation:** Equipment or accessories.
 
-### Q83. Choose the word which best expresses nearly the same meaning of the given word : BONHOMIE
+### Q83. Choose the word which best expresses nearly the same meaning of the given word : **BONHOMIE**
 - (A) Friendliness
 - (B) Wrath
 - (C) Very
@@ -680,7 +728,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (A)
 **Explanation:** Cheerful friendliness.
 
-### Q84. Choose the word which best expresses nearly the same meaning of the given word : TRIVIAL
+### Q84. Choose the word which best expresses nearly the same meaning of the given word : **TRIVIAL**
 - (A) Significant
 - (B) Momentous
 - (C) Unimportant
@@ -688,7 +736,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (C)
 **Explanation:** Of little value or importance.
 
-### Q85. Choose the word which best expresses nearly the same meaning of the given word : COLLAPSE
+### Q85. Choose the word which best expresses nearly the same meaning of the given word : **COLLAPSE**
 - (A) Rise
 - (B) Failure
 - (C) Rebirth
@@ -720,7 +768,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (D)
 **Explanation:** Correct: Separate.
 
-### Q89. Choose the word which best expresses the opposite meaning of the word: FERVENT
+### Q89. Choose the word which best expresses the opposite meaning of the word: **FERVENT**
 - (A) Keen
 - (B) Apathetic
 - (C) Vehement
@@ -728,7 +776,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (B)
 **Explanation:** Opposite of enthusiastic/passionate.
 
-### Q90. Choose the word which best expresses the opposite meaning of the word: GUILELESS
+### Q90. Choose the word which best expresses the opposite meaning of the word: **GUILELESS**
 - (A) Wily
 - (B) Trusting
 - (C) Tricky
@@ -736,7 +784,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (A)
 **Explanation:** Opposite of innocent/sincere.
 
-### Q91. Choose the word which best expresses the opposite meaning of the word: ENDOW
+### Q91. Choose the word which best expresses the opposite meaning of the word: **ENDOW**
 - (A) Revoke
 - (B) Provoke
 - (C) Invoke
@@ -744,7 +792,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (A)
 **Explanation:** To take away (opposite of give).
 
-### Q92. Choose the word which best expresses the opposite meaning of the word: REFULGENT
+### Q92. Choose the word which best expresses the opposite meaning of the word: **REFULGENT**
 - (A) Lustrous
 - (B) Lusty
 - (C) Dull
@@ -752,7 +800,7 @@ The central idea of passage could be best expressed by the following
 **Answer:** (C)
 **Explanation:** Opposite of shining/radiant.
 
-### Q93. Choose the word which best expresses the opposite meaning of the word: INCISIVE
+### Q93. Choose the word which best expresses the opposite meaning of the word: **INCISIVE**
 - (A) Dull
 - (B) Keen
 - (C) Sharp
@@ -760,7 +808,9 @@ The central idea of passage could be best expressed by the following
 **Answer:** (A)
 **Explanation:** Opposite of sharp/penetrating.
 
-### Q94. A five-year-old boy was ________ from his school on Monday last by his servant for a ransom of Rs 8,000.
+### Q94. Fill up the blanks with the most appropriate word from the option given below.
+
+A five-year-old boy was ________ from his school on Monday last by his servant for a ransom of Rs 8,000.
 - (A) driven
 - (B) arrested
 - (C) escorted
@@ -768,7 +818,9 @@ The central idea of passage could be best expressed by the following
 **Answer:** (D)
 **Explanation:** Kidnapped fits context of ransom.
 
-### Q95. He has already made up his mind on this issue. Now it is ________ to argue with him.
+### Q95. Fill up the blanks with the most appropriate word from the option given below.
+
+He has already made up his mind on this issue. Now it is ________ to argue with him.
 - (A) sympathetic
 - (B) vague
 - (C) futile
@@ -776,7 +828,9 @@ The central idea of passage could be best expressed by the following
 **Answer:** (C)
 **Explanation:** Pointless/useless.
 
-### Q96. Her uncle died in a car accident. He was quite rich. She suddenly ________ all her uncle's money.
+### Q96. Fill up the blanks with the most appropriate word from the option given below.
+
+Her uncle died in a car accident. He was quite rich. She suddenly ________ all her uncle's money.
 - (A) succeeded
 - (B) caught
 - (C) gave
@@ -784,7 +838,9 @@ The central idea of passage could be best expressed by the following
 **Answer:** (D)
 **Explanation:** Received as heir.
 
-### Q97. I am fully ________ the problems facing the industry.
+### Q97. Fill up the blanks with the most appropriate word from the option given below.
+
+I am fully ________ the problems facing the industry.
 - (A) alive with
 - (B) alive to
 - (C) alive for
@@ -792,7 +848,9 @@ The central idea of passage could be best expressed by the following
 **Answer:** (B)
 **Explanation:** Aware of (alive to).
 
-### Q98. His most striking ________ is the enthusiasm which he brings to everything he does.
+### Q98. Fill up the blanks with the most appropriate word from the option given below.
+
+His most striking ________ is the enthusiasm which he brings to everything he does.
 - (A) factor
 - (B) attitude
 - (C) characteristic
@@ -800,20 +858,24 @@ The central idea of passage could be best expressed by the following
 **Answer:** (C)
 **Explanation:** Distinguishing feature.
 
-### Q99. In a democratic society every (a)/ voter has a (b)/ responsibility to cast their vote (c)/ in the election process (d) / No error (e)/
+### Q99. Find out which part of the sentence has an error
 
-- (A) a
-- (B) b
-- (C) c
-- (D) d
+In a democratic society every (1)/ voter has a (2)/ responsibility to cast their vote (3)/ in the election process (4) / No error (5)/
+
+- (A) 1
+- (B) 2
+- (C) 3
+- (D) 4
 **Answer:** (C)
 **Explanation:** "their" should be "his/her" for singular "every voter".
 
-### Q100. If the employees would have (a)/ succeeded in their attempt (b)/ they would have (c)/ achieved a good target. (d)/ No error (e)/
+### Q100. Find out which part of the sentence has an error
 
-- (A) a
-- (B) b
-- (C) c
-- (D) d
+If the employees would have (1)/ succeeded in their attempt (2)/ they would have (3)/ achieved a good target. (4)/ No error (5)/
+
+- (A) 1
+- (B) 2
+- (C) 3
+- (D) 4
 **Answer:** (A)
 **Explanation:** Should be "had succeeded" (past perfect).
