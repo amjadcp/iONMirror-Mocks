@@ -591,50 +591,50 @@ M5 O9 Q14
 ## Section: English
 
 ### Q71. The question is (a)/ so complicated that (b)/ it could not be solved (c)/ immediately. (d)/ No error (e)/
-- (A) (a)
-- (B) (b)
-- (C) (c)
-- (D) (d)
+- (A) a
+- (B) b
+- (C) c
+- (D) d
 **Answer:** (C)
 **Explanation:** Tense mismatch; should be "cannot be solved".
 
 ### Q72. Unless he does not discipline (a)/ himself and tries hard (b)/ he will not learn (c)/ anything.(d)/ No error (e)/
-- (A) (a)
-- (B) (b)
-- (C) (c)
-- (D) (d)
+- (A) a
+- (B) b
+- (C) c
+- (D) d
 **Answer:** (A)
 **Explanation:** Double negative; remove "does not".
 
 ### Q73. Despite of having (a)/ an exceptionally bright career record (b)/ she could not get (c)/ whatever she deserved. (d)/ No error (e)/
-- (A) (a)
-- (B) (b)
-- (C) (c)
-- (D) (d)
+- (A) a
+- (B) b
+- (C) c
+- (D) d
 **Answer:** (A)
 **Explanation:** "Despite" does not take "of".
 
 ### Q74. Now the time was to (a)/ escape and he opened the window (b)/ and jumped out. (c)/ No error (d)/
-- (A) (a)
-- (B) (b)
-- (C) (c)
-- (D) (d)
+- (A) a
+- (B) b
+- (C) c
+- (D) d
 **Answer:** (A)
 **Explanation:** "Now was the time to".
 
 ### Q75. The officer is angry on the clerk (a)/ for not completing the job (b)/ on time. (c)/ No error (d)/
-- (A) (a)
-- (B) (b)
-- (C) (c)
-- (D) (d)
+- (A) a
+- (B) b
+- (C) c
+- (D) d
 **Answer:** (A)
 **Explanation:** "Angry with".
 
 ### Q76. Everyone who was injured (a)/ in the accident (b)/ were taken to the hospital (c)/ No error (d)/
-- (A) (a)
-- (B) (b)
-- (C) (c)
-- (D) (d)
+- (A) a
+- (B) b
+- (C) c
+- (D) d
 **Answer:** (C)
 **Explanation:** "Was taken" (singular subject).
 
