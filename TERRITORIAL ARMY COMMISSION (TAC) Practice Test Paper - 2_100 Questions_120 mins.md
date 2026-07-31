@@ -164,7 +164,11 @@ M5 O9 Q14
 **Answer:** (A)
 **Explanation:** (11 × x)/2 = 88 → x=16.
 
-### Q19. Statements: All men are dogs. All dogs are cats. Conclusions: I. All men are cats. II. All cats are men.
+### Q19. Statements: All men are dogs. All dogs are cats. 
+Conclusions: 
+I. All men are cats. 
+II. All cats are men.
+
 - (A) if only conclusion I follows
 - (B) if only conclusion II follows
 - (C) if neither conclusion I nor II follows
@@ -172,7 +176,11 @@ M5 O9 Q14
 **Answer:** (A)
 **Explanation:** Only I follows.
 
-### Q20. Statements: All cars are cats. All fans are cats. Conclusions: I. All cars are fans. II. Some fans are cars.
+### Q20. Statements: All cars are cats. All fans are cats. 
+Conclusions: 
+I. All cars are fans. 
+II. Some fans are cars.
+
 - (A) if only conclusion I follows
 - (B) if only conclusion II follows
 - (C) if neither conclusion I nor II follows
@@ -180,7 +188,11 @@ M5 O9 Q14
 **Answer:** (C)
 **Explanation:** Neither follows.
 
-### Q21. Statements: All roads are waters. Some waters are boats. Conclusion: I. Some boats are roads. II. All waters are boats.
+### Q21. Statements: All roads are waters. Some waters are boats. 
+Conclusion: 
+I. Some boats are roads. 
+II. All waters are boats.
+
 - (A) if only conclusion I follows
 - (B) if only conclusion II follows
 - (C) if neither conclusion I nor II follows
@@ -188,7 +200,11 @@ M5 O9 Q14
 **Answer:** (C)
 **Explanation:** Neither follows.
 
-### Q22. Statements: All huts are mansions. All mansions are temples. Conclusions: I. Some temples are huts. II. Some temples are mansions.
+### Q22. Statements: All huts are mansions. All mansions are temples. 
+Conclusions: 
+I. Some temples are huts. 
+II. Some temples are mansions.
+
 - (A) if only conclusion I follows
 - (B) if only conclusion II follows
 - (C) if neither conclusion I nor II follows
@@ -196,7 +212,11 @@ M5 O9 Q14
 **Answer:** (D)
 **Explanation:** Both follow.
 
-### Q23. Statements: Every minister is a student. Every student is inexperienced. Conclusions: I. Every minister is inexperienced. II. Some inexperienced are students.
+### Q23. Statements: Every minister is a student. Every student is inexperienced. 
+Conclusions: 
+I. Every minister is inexperienced. 
+II. Some inexperienced are students.
+
 - (A) if only conclusion I follows
 - (B) if only conclusion II follows
 - (C) if neither conclusion I nor II follows
@@ -204,7 +224,11 @@ M5 O9 Q14
 **Answer:** (D)
 **Explanation:** Both follow.
 
-### Q24. Statements: All artists are smokers. Some smokers are drunkards. Conclusions: I. All smokers are artists. II. Some drunkards are not smokers
+### Q24. Statements: All artists are smokers. Some smokers are drunkards. 
+Conclusions: 
+I. All smokers are artists. 
+II. Some drunkards are not smokers
+
 - (A) if only conclusion I follows
 - (B) if only conclusion II follows
 - (C) if neither conclusion I nor II follows
@@ -590,55 +614,69 @@ M5 O9 Q14
 
 ## Section: English
 
-### Q71. The question is (a)/ so complicated that (b)/ it could not be solved (c)/ immediately. (d)/ No error (e)/
-- (A) a
-- (B) b
-- (C) c
-- (D) d
+### Q71. Find out which part of the sentence has an error.
+
+The question is (1)/ so complicated that (2)/ it could not be solved (3)/ immediately. (4)/ No error (5)/
+- (A) 1
+- (B) 2
+- (C) 3
+- (D) 4
 **Answer:** (C)
 **Explanation:** Tense mismatch; should be "cannot be solved".
 
-### Q72. Unless he does not discipline (a)/ himself and tries hard (b)/ he will not learn (c)/ anything.(d)/ No error (e)/
-- (A) a
-- (B) b
-- (C) c
-- (D) d
+### Q72. Find out which part of the sentence has an error.
+
+Unless he does not discipline (1)/ himself and tries hard (2)/ he will not learn (3)/ anything.(4)/ No error (5)/
+- (A) 1
+- (B) 2
+- (C) 3
+- (D) 4
 **Answer:** (A)
 **Explanation:** Double negative; remove "does not".
 
-### Q73. Despite of having (a)/ an exceptionally bright career record (b)/ she could not get (c)/ whatever she deserved. (d)/ No error (e)/
-- (A) a
-- (B) b
-- (C) c
-- (D) d
+### Q73. Find out which part of the sentence has an error.
+
+Despite of having (1)/ an exceptionally bright career record (2)/ she could not get (3)/ whatever she deserved. (4)/ No error (5)/
+- (A) 1
+- (B) 2
+- (C) 3
+- (D) 4
 **Answer:** (A)
 **Explanation:** "Despite" does not take "of".
 
-### Q74. Now the time was to (a)/ escape and he opened the window (b)/ and jumped out. (c)/ No error (d)/
-- (A) a
-- (B) b
-- (C) c
-- (D) d
+### Q74. Find out which part of the sentence has an error.
+
+Now the time was to (1)/ escape and he opened the window (2)/ and jumped out. (3)/ No error (4)/
+- (A) 1
+- (B) 2
+- (C) 3
+- (D) 4
 **Answer:** (A)
 **Explanation:** "Now was the time to".
 
-### Q75. The officer is angry on the clerk (a)/ for not completing the job (b)/ on time. (c)/ No error (d)/
-- (A) a
-- (B) b
-- (C) c
-- (D) d
+### Q75. Find out which part of the sentence has an error.
+
+The officer is angry on the clerk (1)/ for not completing the job (2)/ on time. (3)/ No error (4)/
+- (A) 1
+- (B) 2
+- (C) 3
+- (D) 4
 **Answer:** (A)
 **Explanation:** "Angry with".
 
-### Q76. Everyone who was injured (a)/ in the accident (b)/ were taken to the hospital (c)/ No error (d)/
-- (A) a
-- (B) b
-- (C) c
-- (D) d
+### Q76. Find out which part of the sentence has an error.
+
+Everyone who was injured (1)/ in the accident (2)/ were taken to the hospital (3)/ No error (4)/
+- (A) 1
+- (B) 2
+- (C) 3
+- (D) 4
 **Answer:** (C)
 **Explanation:** "Was taken" (singular subject).
 
-### Q77. Ram is very calculative and always has an axe to grind.
+### Q77. Choose the best expression amongst multiple choices for a given idiom/proverb. 
+
+Ram is very calculative and always has an axe to grind.
 - (A) has no result
 - (B) works for both sides
 - (C) has a private agenda
@@ -646,7 +684,9 @@ M5 O9 Q14
 **Answer:** (C)
 **Explanation:** Private motive.
 
-### Q78. The police looked all over for him but drew a blank.
+### Q78. Choose the best expression amongst multiple choices for a given idiom/proverb.
+
+The police looked all over for him but drew a blank.
 - (A) did not find him
 - (B) put him in prison
 - (C) arrested him
@@ -654,7 +694,9 @@ M5 O9 Q14
 **Answer:** (A)
 **Explanation:** Found nothing.
 
-### Q79. On the issue of marriage, Sarita put her foot down.
+### Q79. Choose the best expression amongst multiple choices for a given idiom/proverb.
+
+On the issue of marriage, Sarita put her foot down.
 - (A) stood up
 - (B) was firm
 - (C) got down
@@ -662,7 +704,9 @@ M5 O9 Q14
 **Answer:** (B)
 **Explanation:** Refused to yield.
 
-### Q80. His investments helped him make a killing in the stock market.
+### Q80. Choose the best expression amongst multiple choices for a given idiom/proverb.
+
+His investments helped him make a killing in the stock market.
 - (A) lose money quickly
 - (B) plan a murder quickly
 - (C) murder someone quickly
@@ -670,7 +714,9 @@ M5 O9 Q14
 **Answer:** (D)
 **Explanation:** Large profit.
 
-### Q81. He is on the wrong side of seventy.
+### Q81. Choose the best expression amongst multiple choices for a given idiom/proverb.
+
+He is on the wrong side of seventy.
 - (A) more than seventy years old
 - (B) less than seventy years old
 - (C) seventy years old
@@ -678,7 +724,9 @@ M5 O9 Q14
 **Answer:** (A)
 **Explanation:** Over seventy.
 
-### Q82. She didn't realize that the clever salesman was taking her for a ride
+### Q82. Choose the best expression amongst multiple choices for a given idiom/proverb.
+
+She didn't realize that the clever salesman was taking her for a ride
 - (A) forcing her to go with him
 - (B) trying to trick her
 - (C) taking her in a car
@@ -686,7 +734,9 @@ M5 O9 Q14
 **Answer:** (B)
 **Explanation:** Deceiving her.
 
-### Q83. Extreme old age when a man behaves like a fool
+### Q83. Choose the one which can be substitute for the given word/sentance
+
+Extreme old age when a man behaves like a fool
 - (A) Imbecility
 - (B) Senility
 - (C) Dotage
@@ -694,7 +744,9 @@ M5 O9 Q14
 **Answer:** (C)
 **Explanation:** Dotage.
 
-### Q84. That which cannot be corrected
+### Q84. Choose the one which can be substitute for the given word/sentance
+
+That which cannot be corrected
 - (A) Unintelligible
 - (B) Indelible
 - (C) Illegible
@@ -702,7 +754,9 @@ M5 O9 Q14
 **Answer:** (D)
 **Explanation:** Incorrigible.
 
-### Q85. The study of ancient societies
+### Q85. Choose the one which can be substitute for the given word/sentance
+
+The study of ancient societies
 - (A) Anthropology
 - (B) Archaeology
 - (C) History
@@ -710,7 +764,16 @@ M5 O9 Q14
 **Answer:** (B)
 **Explanation:** Archaeology.
 
-### Q86. S1: A force of exists between everybody in the universe. ... S6: ... We can call this force of attraction gravity. The Proper sequence should be:
+### Q86. The first and last sentences of the passage are numbered 1 and 6. The rest of passage is split into four parts and named P, Q, R and S. These four parts are not given in their proper order. Read the sentence and find out which of the four combinations is correct.
+
+S1: A force of exists between everybody in the universe.
+P : Normally it is very small but when the one of the bodies is a planet, like earth, the force is considerable.
+Q : It has been investigated by many scientists including Galileo and Newton.
+R : Everything on or near the surface of the earth is attracted by the mass of earth.
+S : This gravitational force depends on the mass of the bodies involved.
+S6: The greater the mass, the greater is the earth's force of attraction on it. We can call this force of attraction gravity.
+
+The Proper sequence should be:
 - (A) PRQS
 - (B) PRSQ
 - (C) QSRP
@@ -718,7 +781,16 @@ M5 O9 Q14
 **Answer:** (D)
 **Explanation:** QSPR.
 
-### Q87. S1: Calcutta unlike other cities kepts its trams. ... The Proper sequence should be:
+### Q87. The first and last sentences of the passage are numbered 1 and 6. The rest of passage is split into four parts and named P, Q, R and S. These four parts are not given in their proper order. Read the sentence and find out which of the four combinations is correct.
+
+S1: Calcutta unlike other cities kepts its trams. 
+P : As a result there horrendous congestion. 
+Q : It was going to be the first in South Asia. 
+R : They run down the centre of the road. 
+S : To ease in the city decided to build an underground railway line. 
+S6: The foundation stone was laid in 1972.
+
+The Proper sequence should be:
 - (A) PRSQ
 - (B) PSQR
 - (C) SQRP
@@ -726,7 +798,16 @@ M5 O9 Q14
 **Answer:** (D)
 **Explanation:** RPSQ.
 
-### Q88. S1: For some time in his youth Abraham Lincoln was manager for a shop. ... The Proper sequence should be:
+### Q88. The first and last sentences of the passage are numbered 1 and 6. The rest of passage is split into four parts and named P, Q, R and S. These four parts are not given in their proper order. Read the sentence and find out which of the four combinations is correct.
+
+S1: For some time in his youth Abraham Lincoln was manager for a shop.
+P : Then a chance Customer would come.
+Q : Young Lincoln way of keeping shop was entirely unlike anyone else's.
+R : Lincoln would jump up and attend to his needs and then revert to his reading.
+S : He used to lie full length on the counter of the shop eagerly reading a book.
+S6: Never before had Lincoln had so much time for reading as had then.
+
+The Proper sequence should be:
 - (A) SRQP
 - (B) QSPR
 - (C) SQRP
@@ -734,7 +815,16 @@ M5 O9 Q14
 **Answer:** (B)
 **Explanation:** QSPR.
 
-### Q89. S1: All the land was covered by the ocean. ... The Proper sequence should be:
+### Q89. The first and last sentences of the passage are numbered 1 and 6. The rest of passage is split into four parts and named P, Q, R and S. These four parts are not given in their proper order. Read the sentence and find out which of the four combinations is correct.
+
+S1: All the land was covered by the ocean.
+P : The leading god fought the monster, killed it and chopped its body in to two halves.
+Q : A terrible monster prevented the gods from separating the land from the water.
+R : The god made the sky out of the upper part of the body and ornamented it with stars.
+S : The god created the earth from the lower part, grew plants on it and populated it with animals.
+S6: The god moulded the first people out of clay according to his own image and mind.
+
+The Proper sequence should be:
 - (A) PQRS
 - (B) PQSR
 - (C) QPSR
@@ -742,7 +832,9 @@ M5 O9 Q14
 **Answer:** (D)
 **Explanation:** QPRS.
 
-### Q90. John had told me that he hasn't done it yet.
+### Q90. For Underlined part of the sentence chooses part of the sentence from given choices, to correct or improve it.
+
+John **_had told_** me that he hasn't done it yet.
 - (A) told
 - (B) tells
 - (C) was telling
@@ -750,7 +842,9 @@ M5 O9 Q14
 **Answer:** (B)
 **Explanation:** Tells (present).
 
-### Q91. If he had time he will call you.
+### Q91. For Underlined part of the sentence chooses part of the sentence from given choices, to correct or improve it.
+
+If he **_had_** time he will call you.
 - (A) would have
 - (B) would have had
 - (C) has
@@ -758,7 +852,9 @@ M5 O9 Q14
 **Answer:** (C)
 **Explanation:** Has.
 
-### Q92. Will you lend me few rupees in this hour of need?
+### Q92. For Underlined part of the sentence chooses part of the sentence from given choices, to correct or improve it.
+
+Will you **_lend me few rupees_** in this hour of need?
 - (A) lend me any rupees
 - (B) borrow me a few rupees
 - (C) lend me a few rupees
@@ -766,7 +862,9 @@ M5 O9 Q14
 **Answer:** (C)
 **Explanation:** "A few rupees".
 
-### Q93. During his long discourse, he did not touch that point.
+### Q93. For Underlined part of the sentence chooses part of the sentence from given choices, to correct or improve it.
+
+During his long discourse, he did not **_touch_** that point.
 - (A) touch upon
 - (B) touch on
 - (C) touch of
@@ -774,7 +872,9 @@ M5 O9 Q14
 **Answer:** (B)
 **Explanation:** Touch on.
 
-### Q94. He found a wooden broken chair in the room.
+### Q94. For Underlined part of the sentence chooses part of the sentence from given choices, to correct or improve it.
+
+He found a **_wooden broken chair_** in the room.
 - (A) wooden and broken chair
 - (B) broken wooden chair
 - (C) broken and wooden chair
@@ -782,7 +882,9 @@ M5 O9 Q14
 **Answer:** (B)
 **Explanation:** Adjective order: broken wooden.
 
-### Q95. Women like men to flatter them.
+### Q95. A sentence has been given in Active (or Passive) voice. Out of the four alternatives suggested, select the one which best express the same sentence in Passive (or Active) voice.
+
+Women like men to flatter them.
 - (A) Men are liked by women to flatter them.
 - (B) Women like to be flattered by men.
 - (C) Women like that men should flatter them.
@@ -790,7 +892,9 @@ M5 O9 Q14
 **Answer:** (B)
 **Explanation:** Passive: to be flattered.
 
-### Q96. It is your duty to make tea at eleven O'clock.
+### Q96. A sentence has been given in Active (or Passive) voice. Out of the four alternatives suggested, select the one which best express the same sentence in Passive (or Active) voice.
+
+It is your duty to make tea at eleven O'clock.
 - (A) You are asked to make tea at eleven O' clock.
 - (B) You are required to make tea at eleven O'clock.
 - (C) You are supposed to make tea at eleven O' clock.
@@ -798,7 +902,9 @@ M5 O9 Q14
 **Answer:** (C)
 **Explanation:** Supposed to.
 
-### Q97. Look at the poll results, do they inspire hope ?
+### Q97. A sentence has been given in Active (or Passive) voice. Out of the four alternatives suggested, select the one which best express the same sentence in Passive (or Active) voice.
+
+Look at the poll results, do they inspire hope ?
 - (A) Let the poll results be looked. is hope inspired by them ?
 - (B) Let the poll results be looked at. has hope been inspired by them ?
 - (C) Let the poll results be looked at. is hope being inspired by them ?
@@ -806,7 +912,9 @@ M5 O9 Q14
 **Answer:** (D)
 **Explanation:** Correct passive.
 
-### Q98. All religions are to advance the cause of peace (P)/ in a holy partnership (Q)/ justice and freedom (R)/ bound together (S)
+### Q98. Rearrange the following part of the sentence in form of a meaningful sentence.
+
+All religions are to advance the cause of peace (P)/ in a holy partnership (Q)/ justice and freedom (R)/ bound together (S)
 - (A) P R Q S
 - (B) P Q R S
 - (C) S Q P R
@@ -814,7 +922,9 @@ M5 O9 Q14
 **Answer:** (C)
 **Explanation:** S Q P R.
 
-### Q99. Seventy-two people reports PTI (P)/ were affected by food poisoning (Q)/ including several women and children (R)/ of the central part of the city (S)/
+### Q99. Rearrange the following part of the sentence in form of a meaningful sentence.
+
+Seventy-two people reports PTI (P)/ were affected by food poisoning (Q)/ including several women and children (R)/ of the central part of the city (S)/
 - (A) S P Q R
 - (B) P Q R S
 - (C) R S P Q
@@ -822,7 +932,9 @@ M5 O9 Q14
 **Answer:** (D)
 **Explanation:** R S Q P.
 
-### Q100. The Prime Minister declared that those states (P)/ will get all help and aid (Q)/ where family planning (R)/ is effected very efficiently (S)/
+### Q100. Rearrange the following part of the sentence in form of a meaningful sentence.
+
+The Prime Minister declared that those states (P)/ will get all help and aid (Q)/ where family planning (R)/ is effected very efficiently (S)/
 - (A) P R S Q
 - (B) P Q R S
 - (C) R S P Q
