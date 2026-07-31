@@ -5,7 +5,8 @@
 ### Q1. Read the passage carefully to answer the questions that follow.
 The Union government has finalized a Rs 6,000-crore scheme to tackle the country’s depleting groundwater level. The Atal Bhujal Yojana, which is now awaiting the Union Cabinet’s clearance, will be launched in Gujarat, Maharashtra, Haryana, Karnataka, Rajasthan, Uttar Pradesh and Madhya Pradesh, covering 78 districts, 193 blocks and more than 8,300 gram panchayats. Half of the Rs 6,000 crore will come from the government’s budgetary support and the World Bank will give another Rs 3,000 crore.
 This scheme comes at a very critical time for the country. According to a World Bank report, about 245 billion cubic metre of groundwater is abstracted each year in the country. This figure represents about 25% of the total global groundwater abstraction. In the past four to five decades, 80% of the rural and urban domestic water supplies in the country have been dependent on groundwater, the report added. Nearly two-thirds of India has underlying hard rock formations, which allow water to recharge only very slowly. The excessive extraction of groundwater, the debilitating impact of climate change on monsoons, which recharges aquifers, and lax implementation of water harvesting laws will impact not just the population’s drinking water needs, but also agriculture and industrial growth.
-Which of the following statements is definitely false according to the passage?
+
+**Which of the following statements is definitely false according to the passage?**
 - (A) The Union government has finalized a Rs 6,000-crore scheme to tackle the country's depleting groundwater level.
 - (B) About 245 billion cubic metre of groundwater is abstracted each year in the country.
 - (C) The Atal Bhujal Yojana, which is now awaiting the Union Cabinet's clearance, will be launched in Gujarat, Maharashtra, Haryana, Karnataka, Rajasthan, Uttar Pradesh and Madhya Pradesh, covering 78 districts, 193 blocks and more than 8,300 gram panchayats.
@@ -16,7 +17,8 @@ Which of the following statements is definitely false according to the passage?
 ### Q2. Read the passage carefully to answer the questions that follow.
 The Union government has finalized a Rs 6,000-crore scheme to tackle the country’s depleting groundwater level. The Atal Bhujal Yojana, which is now awaiting the Union Cabinet’s clearance, will be launched in Gujarat, Maharashtra, Haryana, Karnataka, Rajasthan, Uttar Pradesh and Madhya Pradesh, covering 78 districts, 193 blocks and more than 8,300 gram panchayats. Half of the Rs 6,000 crore will come from the government’s budgetary support and the World Bank will give another Rs 3,000 crore.
 This scheme comes at a very critical time for the country. According to a World Bank report, about 245 billion cubic metre of groundwater is abstracted each year in the country. This figure represents about 25% of the total global groundwater abstraction. In the past four to five decades, 80% of the rural and urban domestic water supplies in the country have been dependent on groundwater, the report added. Nearly two-thirds of India has underlying hard rock formations, which allow water to recharge only very slowly. The excessive extraction of groundwater, the debilitating impact of climate change on monsoons, which recharges aquifers, and lax implementation of water harvesting laws will impact not just the population’s drinking water needs, but also agriculture and industrial growth.
-Which of the following words is nearest in meaning to the word ‘abstracted’ as mentioned in the passage?
+
+**Which of the following words is nearest in meaning to the word ‘abstracted’ as mentioned in the passage?**
 - (A) Observed
 - (B) Conscious
 - (C) Withdrawn
@@ -27,7 +29,8 @@ Which of the following words is nearest in meaning to the word ‘abstracted’ 
 ### Q3. Read the passage carefully to answer the questions that follow.
 The Union government has finalized a Rs 6,000-crore scheme to tackle the country’s depleting groundwater level. The Atal Bhujal Yojana, which is now awaiting the Union Cabinet’s clearance, will be launched in Gujarat, Maharashtra, Haryana, Karnataka, Rajasthan, Uttar Pradesh and Madhya Pradesh, covering 78 districts, 193 blocks and more than 8,300 gram panchayats. Half of the Rs 6,000 crore will come from the government’s budgetary support and the World Bank will give another Rs 3,000 crore.
 This scheme comes at a very critical time for the country. According to a World Bank report, about 245 billion cubic metre of groundwater is abstracted each year in the country. This figure represents about 25% of the total global groundwater abstraction. In the past four to five decades, 80% of the rural and urban domestic water supplies in the country have been dependent on groundwater, the report added. Nearly two-thirds of India has underlying hard rock formations, which allow water to recharge only very slowly. The excessive extraction of groundwater, the debilitating impact of climate change on monsoons, which recharges aquifers, and lax implementation of water harvesting laws will impact not just the population’s drinking water needs, but also agriculture and industrial growth.
-Which of the following words is the most opposite in meaning to the word ‘depleting’ as used in the passage?
+
+**Which of the following words is the most opposite in meaning to the word ‘depleting’ as used in the passage?**
 - (A) Extract
 - (B) Change
 - (C) Burn
@@ -38,7 +41,8 @@ Which of the following words is the most opposite in meaning to the word ‘depl
 ### Q4. Read the passage carefully to answer the questions that follow.
 The Union government has finalized a Rs 6,000-crore scheme to tackle the country’s depleting groundwater level. The Atal Bhujal Yojana, which is now awaiting the Union Cabinet’s clearance, will be launched in Gujarat, Maharashtra, Haryana, Karnataka, Rajasthan, Uttar Pradesh and Madhya Pradesh, covering 78 districts, 193 blocks and more than 8,300 gram panchayats. Half of the Rs 6,000 crore will come from the government’s budgetary support and the World Bank will give another Rs 3,000 crore.
 This scheme comes at a very critical time for the country. According to a World Bank report, about 245 billion cubic metre of groundwater is abstracted each year in the country. This figure represents about 25% of the total global groundwater abstraction. In the past four to five decades, 80% of the rural and urban domestic water supplies in the country have been dependent on groundwater, the report added. Nearly two-thirds of India has underlying hard rock formations, which allow water to recharge only very slowly. The excessive extraction of groundwater, the debilitating impact of climate change on monsoons, which recharges aquifers, and lax implementation of water harvesting laws will impact not just the population’s drinking water needs, but also agriculture and industrial growth.
-What do you understand by the phrase ‘debilitating impact’ as per its usage in the passage?
+
+**What do you understand by the phrase ‘debilitating impact’ as per its usage in the passage?**
 - (A) Strengthening effect
 - (B) Weakening effect
 - (C) Extreme effect
@@ -49,7 +53,8 @@ What do you understand by the phrase ‘debilitating impact’ as per its usage 
 ### Q5. Read the passage carefully to answer the questions that follow.
 The Union government has finalized a Rs 6,000-crore scheme to tackle the country’s depleting groundwater level. The Atal Bhujal Yojana, which is now awaiting the Union Cabinet’s clearance, will be launched in Gujarat, Maharashtra, Haryana, Karnataka, Rajasthan, Uttar Pradesh and Madhya Pradesh, covering 78 districts, 193 blocks and more than 8,300 gram panchayats. Half of the Rs 6,000 crore will come from the government’s budgetary support and the World Bank will give another Rs 3,000 crore.
 This scheme comes at a very critical time for the country. According to a World Bank report, about 245 billion cubic metre of groundwater is abstracted each year in the country. This figure represents about 25% of the total global groundwater abstraction. In the past four to five decades, 80% of the rural and urban domestic water supplies in the country have been dependent on groundwater, the report added. Nearly two-thirds of India has underlying hard rock formations, which allow water to recharge only very slowly. The excessive extraction of groundwater, the debilitating impact of climate change on monsoons, which recharges aquifers, and lax implementation of water harvesting laws will impact not just the population’s drinking water needs, but also agriculture and industrial growth.
-Why does the writer mention that the ‘Atal Bhujal Yojana’ comes at a very critical time?
+
+**Why does the writer mention that the ‘Atal Bhujal Yojana’ comes at a very critical time?**
 - (A) The Union government has finalised a Rs 6,000-crore scheme to tackle the country's depleting groundwater level.
 - (B) Half of the Rs 6,000 crore will come from the government's budgetary support and the World Bank will give another Rs 3,000 crore.
 - (C) Government does not have enough funds to tackle the problem.
@@ -97,7 +102,7 @@ Why does the writer mention that the ‘Atal Bhujal Yojana’ comes at a very cr
 **Answer:** (A)
 **Explanation:** The correct phrasal verb is “adapt to” meaning to adjust oneself to new conditions.
 
-### Q11. Find the word which is most nearly the same in meaning to the given word - TRANSFORM
+### Q11. Find the word which is most nearly the same in meaning to the given word - **TRANSFORM**
 - (A) Hold
 - (B) Affect
 - (C) Alter
@@ -105,7 +110,7 @@ Why does the writer mention that the ‘Atal Bhujal Yojana’ comes at a very cr
 **Answer:** (C)
 **Explanation:** “Transform” means to change completely in form or appearance; “alter” is the closest synonym.
 
-### Q12. Find the word which is most nearly the same in meaning to the given word - FALLACY
+### Q12. Find the word which is most nearly the same in meaning to the given word - **FALLACY**
 - (A) Falsehood
 - (B) Belief
 - (C) Expression
@@ -113,7 +118,7 @@ Why does the writer mention that the ‘Atal Bhujal Yojana’ comes at a very cr
 **Answer:** (A)
 **Explanation:** A fallacy is a false or mistaken belief; “falsehood” is the nearest meaning.
 
-### Q13. Find the word which is most nearly the same in meaning to the given word - SERENE
+### Q13. Find the word which is most nearly the same in meaning to the given word - **SERENE**
 - (A) Nervous
 - (B) Excited
 - (C) Calm
@@ -121,7 +126,7 @@ Why does the writer mention that the ‘Atal Bhujal Yojana’ comes at a very cr
 **Answer:** (C)
 **Explanation:** “Serene” means peaceful and calm; “calm” is the direct synonym.
 
-### Q14. Find the word which is most nearly the same in meaning to the given word - EXPOSE
+### Q14. Find the word which is most nearly the same in meaning to the given word - **EXPOSE**
 - (A) Crack
 - (B) Secretive
 - (C) Trait
@@ -129,7 +134,7 @@ Why does the writer mention that the ‘Atal Bhujal Yojana’ comes at a very cr
 **Answer:** (D)
 **Explanation:** “Expose” means to uncover or make known; “reveal” is the closest synonym.
 
-### Q15. Find the word which is most nearly the same in meaning to the given word - IRKSOME
+### Q15. Find the word which is most nearly the same in meaning to the given word - **IRKSOME**
 - (A) Happy
 - (B) Annoying
 - (C) Grateful
@@ -223,7 +228,8 @@ B. Israeli author David Grossman won the Man Booker International Prize on Wedne
 C. He will share the £50,000 ($64,000) award with translator Jessica Cohen.
 D. Other works have included The Yellow Wind, a prescient, non-fiction look at Israel’s occupation ahead of the first Palestinian intifada that erupted in 1987.
 E. The book unfolds over the course of a stand-up show during which comedian Dovelah Gee exposes a wound he has been living with for years and the difficult choice he had to make between the two people who were dearest to him.
-Which will be the second sentence after the rearrangement?
+
+**Which will be the second sentence after the rearrangement?**
 - (A) E
 - (B) B
 - (C) A
@@ -237,7 +243,8 @@ B. Israeli author David Grossman won the Man Booker International Prize on Wedne
 C. He will share the £50,000 ($64,000) award with translator Jessica Cohen.
 D. Other works have included The Yellow Wind, a prescient, non-fiction look at Israel’s occupation ahead of the first Palestinian intifada that erupted in 1987.
 E. The book unfolds over the course of a stand-up show during which comedian Dovelah Gee exposes a wound he has been living with for years and the difficult choice he had to make between the two people who were dearest to him.
-Which will be the third sentence after the rearrangement?
+
+**Which will be the third sentence after the rearrangement?**
 - (A) C
 - (B) A
 - (C) B
@@ -251,7 +258,8 @@ B. Israeli author David Grossman won the Man Booker International Prize on Wedne
 C. He will share the £50,000 ($64,000) award with translator Jessica Cohen.
 D. Other works have included The Yellow Wind, a prescient, non-fiction look at Israel’s occupation ahead of the first Palestinian intifada that erupted in 1987.
 E. The book unfolds over the course of a stand-up show during which comedian Dovelah Gee exposes a wound he has been living with for years and the difficult choice he had to make between the two people who were dearest to him.
-Which will be the first sentence after the rearrangement?
+
+**Which will be the first sentence after the rearrangement?**
 - (A) B
 - (B) D
 - (C) C
@@ -265,7 +273,8 @@ B. Israeli author David Grossman won the Man Booker International Prize on Wedne
 C. He will share the £50,000 ($64,000) award with translator Jessica Cohen.
 D. Other works have included The Yellow Wind, a prescient, non-fiction look at Israel’s occupation ahead of the first Palestinian intifada that erupted in 1987.
 E. The book unfolds over the course of a stand-up show during which comedian Dovelah Gee exposes a wound he has been living with for years and the difficult choice he had to make between the two people who were dearest to him.
-Which will be the last (fifth) sentence after the rearrangement?
+
+**Which will be the last (fifth) sentence after the rearrangement?**
 - (A) B
 - (B) C
 - (C) D
@@ -607,7 +616,9 @@ Which will be the last (fifth) sentence after the rearrangement?
 **Answer:** (A)
 **Explanation:** Heart, Club and Spade are suits in a pack of cards; Brick is not.
 
-### Q71. Cobbler : Leather : : Weaver : ?
+### Q71. Select the related number/letters/word from the given alternatives
+
+Cobbler : Leather : : Weaver : ?
 - (A) Cotton
 - (B) Jute
 - (C) Fiber
@@ -615,7 +626,9 @@ Which will be the last (fifth) sentence after the rearrangement?
 **Answer:** (A)
 **Explanation:** A cobbler works with leather; a weaver works with cotton (the primary raw material).
 
-### Q72. Window : Curtain : : ? : ?
+### Q72. Select the related number/letters/word from the given alternatives
+
+Window : Curtain : : ? : ?
 - (A) Door : Frame
 - (B) Book : Jacket
 - (C) CPU : Cabinet
@@ -623,7 +636,9 @@ Which will be the last (fifth) sentence after the rearrangement?
 **Answer:** (C)
 **Explanation:** A curtain covers/protects a window; a cabinet covers/protects a CPU.
 
-### Q73. England : Apple : : Iran : ?
+### Q73. Select the related number/letters/word from the given alternatives
+
+England : Apple : : Iran : ?
 - (A) Pomegranate
 - (B) Mango
 - (C) Lychee
@@ -631,7 +646,9 @@ Which will be the last (fifth) sentence after the rearrangement?
 **Answer:** (A)
 **Explanation:** Apple is traditionally associated with England; Pomegranate is associated with Iran.
 
-### Q74. House : Rent : : Capital : ?
+### Q74. Select the related number/letters/word from the given alternatives
+
+House : Rent : : Capital : ?
 - (A) Interest
 - (B) Investment
 - (C) Country
@@ -639,7 +656,9 @@ Which will be the last (fifth) sentence after the rearrangement?
 **Answer:** (A)
 **Explanation:** A house yields rent; capital yields interest.
 
-### Q75. House : Room :: World : ?
+### Q75. Select the related number/letters/word from the given alternatives
+
+House : Room :: World : ?
 - (A) Land
 - (B) Sun
 - (C) Air
