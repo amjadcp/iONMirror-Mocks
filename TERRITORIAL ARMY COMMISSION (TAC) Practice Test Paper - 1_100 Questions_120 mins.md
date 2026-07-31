@@ -802,7 +802,7 @@ The central idea of passage could be best expressed by the following
 
 ### Q99. In each of the following sentences find out which part of the sentence has an error.
 
-> In a democratic society every **(a)/** voter has a **(b)/** responsibility to cast their vote **(c)/** in the election process **(d)** / No error **(e)**
+> In a democratic society every **(a)** voter has a **(b)** responsibility to cast their vote **(c)** in the election process **(d)** / No error **(e)**
 
 - (A) a
 - (B) b
@@ -813,7 +813,7 @@ The central idea of passage could be best expressed by the following
 
 ### Q100. In each of the following sentences find out which part of the sentence has an error.
 
-> If the employees would have **(a)/** succeeded in their attempt **(b)/** they would have **(c)/** achieved a good target. **(d)/** No error (e)/
+> If the employees would have **(a)** succeeded in their attempt **(b)** they would have **(c)** achieved a good target. **(d)** No error (e)/
 - (A) a
 - (B) b
 - (C) c
