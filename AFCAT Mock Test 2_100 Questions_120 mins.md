@@ -244,7 +244,9 @@
 **Answer:** (D)
 **Explanation:** Cabbage is a leafy vegetable; others are root vegetables.
 
-### Q31. Spring : Summer : :
+### Q31. Find the similar relation
+
+Spring : Summer : :
 - (A) Sunday : Monday
 - (B) Thursday : Wednesday
 - (C) Tuesday : Friday
@@ -252,7 +254,9 @@
 **Answer:** (A)
 **Explanation:** Spring is followed by Summer; Sunday is followed by Monday.
 
-### Q32. CONDENSATION : REFRIGERATE : :
+### Q32. Find the similar relation
+
+CONDENSATION : REFRIGERATE : :
 - (A) evaporation : heat
 - (B) consumption : cook
 - (C) oration : listen
@@ -260,7 +264,9 @@
 **Answer:** (A)
 **Explanation:** Condensation occurs due to refrigeration (cooling); evaporation occurs due to heat.
 
-### Q33. HANDCUFFS : PRISONER : :
+### Q33. Find the similar relation
+
+HANDCUFFS : PRISONER : :
 - (A) shoes : feet
 - (B) leash : dog
 - (C) tail : kite
@@ -268,7 +274,9 @@
 **Answer:** (B)
 **Explanation:** Handcuffs are used to restrain a prisoner; leash is used to restrain a dog.
 
-### Q34. ISLAND : OCEAN : :
+### Q34. Find the similar relation
+
+ISLAND : OCEAN : :
 - (A) hill : stream
 - (B) forest : valley
 - (C) tree : field
@@ -276,7 +284,9 @@
 **Answer:** (D)
 **Explanation:** Island is surrounded by ocean; oasis is surrounded by desert.
 
-### Q35. FISSION : FUSION : :
+### Q35. Find the similar relation
+
+FISSION : FUSION : :
 - (A) implosion : explosion
 - (B) separation : togetherness
 - (C) intrusion : extrusion
@@ -508,7 +518,9 @@ III. Some gardens are petals.
 **Answer:** (A)
 **Explanation:** Ambiguity means vagueness; opposite is clarity.
 
-### Q61. To read between the lines
+### Q61. Choose the correct meaning of given idioms /phrases.
+
+**To read between the lines**
 - (A) To suspect
 - (B) To read carefully
 - (C) To understand the hidden meaning of the word
@@ -516,7 +528,9 @@ III. Some gardens are petals.
 **Answer:** (C)
 **Explanation:** Means to understand the hidden/implied meaning.
 
-### Q62. A Curtain Lecture
+### Q62. Choose the correct meaning of given idioms /phrases.
+
+**A Curtain Lecture**
 - (A) To speak plainly
 - (B) Vulgar ideas
 - (C) Private scolding of a husband by his wife
@@ -524,7 +538,9 @@ III. Some gardens are petals.
 **Answer:** (C)
 **Explanation:** Private scolding by a wife to her husband.
 
-### Q63. To face the music
+### Q63. Choose the correct meaning of given idioms /phrases.
+
+**To face the music**
 - (A) To prepare to give a musical performance
 - (B) To suffer evil consequences
 - (C) To suffer hardships
@@ -532,7 +548,9 @@ III. Some gardens are petals.
 **Answer:** (B)
 **Explanation:** Means to face the consequences of one’s actions.
 
-### Q64. Square pegs in round holes
+### Q64. Choose the correct meaning of given idioms /phrases.
+
+**Square pegs in round holes**
 - (A) A genuinely helpful person
 - (B) A clever person
 - (C) People in the wrong jobs
@@ -540,7 +558,9 @@ III. Some gardens are petals.
 **Answer:** (C)
 **Explanation:** People unsuited to their jobs/positions.
 
-### Q65. To leave no stone unturned
+### Q65. Choose the correct meaning of given idioms /phrases.
+
+**To leave no stone unturned**
 - (A) To keep clean and tidy
 - (B) To try utmost
 - (C) To work enthusiastically
@@ -612,7 +632,27 @@ III. Some gardens are petals.
 **Answer:** (C)
 **Explanation:** “Never found” is the correct passive form.
 
-### Q74. Which of the following is the synonym of the word ‘upbringing’?
+### Q74. Read the passage carefully and answer the questions below from the given options.
+
+My brother, David, was always close to our
+grandmother. Both of them shared a love of
+Mother Nature and of food that they had grown
+themselves. Whenever his schedule permitted, he
+would drop in for a short visit and a cup of coffee.
+One day, when he found no one home, he left a
+chunk of dirt on her porch. This started what was
+later to be known as his “calling card”.
+Grandmother would come home occasionally and
+instantly know that Dave had been by when she
+spotted the chunk of dirt on her porch. Although
+Grandmother had a poor upbringing in Italy, she
+managed to do well in the United States. She was
+always healthy and independent and enjoyed a
+fulfilling life. Recently she had a stroke and died.
+Everyone was saddened by her death. David was
+disconsolate. His life-long friend was now gone. 
+
+**Which of the following is the synonym of the word ‘upbringing’?**
 - (A) Devastated
 - (B) Hilarious
 - (C) raising
@@ -620,7 +660,27 @@ III. Some gardens are petals.
 **Answer:** (C)
 **Explanation:** Upbringing means the way a child is raised.
 
-### Q75. The adjective form of the word ‘saddened’ is—
+### Q75. Read the passage carefully and answer the questions below from the given options.
+
+My brother, David, was always close to our
+grandmother. Both of them shared a love of
+Mother Nature and of food that they had grown
+themselves. Whenever his schedule permitted, he
+would drop in for a short visit and a cup of coffee.
+One day, when he found no one home, he left a
+chunk of dirt on her porch. This started what was
+later to be known as his “calling card”.
+Grandmother would come home occasionally and
+instantly know that Dave had been by when she
+spotted the chunk of dirt on her porch. Although
+Grandmother had a poor upbringing in Italy, she
+managed to do well in the United States. She was
+always healthy and independent and enjoyed a
+fulfilling life. Recently she had a stroke and died.
+Everyone was saddened by her death. David was
+disconsolate. His life-long friend was now gone.
+
+**The adjective form of the word ‘saddened’ is ____**
 - (A) sadly
 - (B) sad
 - (C) suddenly
@@ -628,7 +688,27 @@ III. Some gardens are petals.
 **Answer:** (B)
 **Explanation:** Adjective form is “sad”.
 
-### Q76. What was condition of grandmother earlier?
+### Q76. Read the passage carefully and answer the questions below from the given options.
+
+My brother, David, was always close to our
+grandmother. Both of them shared a love of
+Mother Nature and of food that they had grown
+themselves. Whenever his schedule permitted, he
+would drop in for a short visit and a cup of coffee.
+One day, when he found no one home, he left a
+chunk of dirt on her porch. This started what was
+later to be known as his “calling card”.
+Grandmother would come home occasionally and
+instantly know that Dave had been by when she
+spotted the chunk of dirt on her porch. Although
+Grandmother had a poor upbringing in Italy, she
+managed to do well in the United States. She was
+always healthy and independent and enjoyed a
+fulfilling life. Recently she had a stroke and died.
+Everyone was saddened by her death. David was
+disconsolate. His life-long friend was now gone.
+
+**What was condition of grandmother earlier?**
 - (A) rich in Italy but poor in the United States
 - (B) in the United States but is now in Italy
 - (C) poor earlier but became rich later on
@@ -636,7 +716,27 @@ III. Some gardens are petals.
 **Answer:** (C)
 **Explanation:** She had a poor upbringing in Italy but managed to do well in the US.
 
-### Q77. Grandmother enjoyed a ____ life.
+### Q77. Read the passage carefully and answer the questions below from the given options.
+
+My brother, David, was always close to our
+grandmother. Both of them shared a love of
+Mother Nature and of food that they had grown
+themselves. Whenever his schedule permitted, he
+would drop in for a short visit and a cup of coffee.
+One day, when he found no one home, he left a
+chunk of dirt on her porch. This started what was
+later to be known as his “calling card”.
+Grandmother would come home occasionally and
+instantly know that Dave had been by when she
+spotted the chunk of dirt on her porch. Although
+Grandmother had a poor upbringing in Italy, she
+managed to do well in the United States. She was
+always healthy and independent and enjoyed a
+fulfilling life. Recently she had a stroke and died.
+Everyone was saddened by her death. David was
+disconsolate. His life-long friend was now gone.
+
+**Grandmother enjoyed a ____ life.**
 - (A) healthy but sickly
 - (B) good and healthy
 - (C) rich but sickly
@@ -644,7 +744,27 @@ III. Some gardens are petals.
 **Answer:** (B)
 **Explanation:** She was always healthy and independent and enjoyed a fulfilling life.
 
-### Q78. Grandmother’s death made everyone
+### Q78. Read the passage carefully and answer the questions below from the given options.
+
+My brother, David, was always close to our
+grandmother. Both of them shared a love of
+Mother Nature and of food that they had grown
+themselves. Whenever his schedule permitted, he
+would drop in for a short visit and a cup of coffee.
+One day, when he found no one home, he left a
+chunk of dirt on her porch. This started what was
+later to be known as his “calling card”.
+Grandmother would come home occasionally and
+instantly know that Dave had been by when she
+spotted the chunk of dirt on her porch. Although
+Grandmother had a poor upbringing in Italy, she
+managed to do well in the United States. She was
+always healthy and independent and enjoyed a
+fulfilling life. Recently she had a stroke and died.
+Everyone was saddened by her death. David was
+disconsolate. His life-long friend was now gone.
+
+**Grandmother’s death made everyone**
 - (A) sad including David
 - (B) disconsolate excluding David
 - (C) happy and disconsolate
